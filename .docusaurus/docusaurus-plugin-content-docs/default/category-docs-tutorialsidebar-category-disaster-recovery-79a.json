@@ -1,0 +1,16 @@
+{
+  "title": "Disaster Recovery",
+  "description": "Enjoy!",
+  "slug": "/category/disaster-recovery",
+  "permalink": "/docs/category/disaster-recovery",
+  "navigation": {
+    "previous": {
+      "title": "Configuring Veeam",
+      "permalink": "/docs/Backup/Configuring Veeam"
+    },
+    "next": {
+      "title": "CommingSoon",
+      "permalink": "/docs/Disaster Recovery/CommingSoon"
+    }
+  }
+}

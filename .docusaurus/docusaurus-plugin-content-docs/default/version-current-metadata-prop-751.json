@@ -1,0 +1,530 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "How to start with the project",
+            "href": "/docs/Getting Started/Requirements",
+            "docId": "Getting Started/Requirements"
+          }
+        ],
+        "href": "/docs/category/getting-started"
+      },
+      {
+        "type": "category",
+        "label": "Continous Integration",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/Continous Integration/overview",
+            "docId": "Continous Integration/overview"
+          },
+          {
+            "type": "link",
+            "label": "Installation of Jenkins",
+            "href": "/docs/Continous Integration/Installation of Jenkins",
+            "docId": "Continous Integration/Installation of Jenkins"
+          }
+        ],
+        "href": "/docs/category/continous-integration"
+      },
+      {
+        "type": "category",
+        "label": "Infrastructure as a Code",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Infrastructure as a Code/Introduction",
+            "docId": "Infrastructure as a Code/Introduction"
+          },
+          {
+            "type": "category",
+            "label": "Terraform",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "TerraformModule",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "root",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
+                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/root"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Workstation",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
+                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/Workstation"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Google kubernetes Engine Cluster",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
+                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Add Developer roles and Access",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
+                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "href": "/docs/category/infrastructure-as-a-code"
+      },
+      {
+        "type": "category",
+        "label": "Monitoring",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "overview",
+            "href": "/docs/Monitoring/overview",
+            "docId": "Monitoring/overview"
+          },
+          {
+            "type": "link",
+            "label": "Exposing Metrics for Developer VMs",
+            "href": "/docs/Monitoring/ExposeMetrics",
+            "docId": "Monitoring/ExposeMetrics"
+          },
+          {
+            "type": "link",
+            "label": "Installation of Prometheus",
+            "href": "/docs/Monitoring/Installation of Prometheus",
+            "docId": "Monitoring/Installation of Prometheus"
+          },
+          {
+            "type": "link",
+            "label": "Installation of Grafana",
+            "href": "/docs/Monitoring/Installation of Grafana",
+            "docId": "Monitoring/Installation of Grafana"
+          },
+          {
+            "type": "link",
+            "label": "Configuration of Grafana Dashboards",
+            "href": "/docs/Monitoring/Configuration of Grafana Dashboards",
+            "docId": "Monitoring/Configuration of Grafana Dashboards"
+          }
+        ],
+        "href": "/docs/category/monitoring"
+      },
+      {
+        "type": "category",
+        "label": "Configuration Management",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "introduction",
+            "href": "/docs/Configuration Management/introduction",
+            "docId": "Configuration Management/introduction"
+          },
+          {
+            "type": "link",
+            "label": "Installing AWX",
+            "href": "/docs/Configuration Management/Installing AWX",
+            "docId": "Configuration Management/Installing AWX"
+          },
+          {
+            "type": "link",
+            "label": "Configuring AWX",
+            "href": "/docs/Configuration Management/Configuring AWX",
+            "docId": "Configuration Management/Configuring AWX"
+          },
+          {
+            "type": "link",
+            "label": "Running Ansible Playbook with Dynamic Inventory",
+            "href": "/docs/Configuration Management/Ansible",
+            "docId": "Configuration Management/Ansible"
+          }
+        ],
+        "href": "/docs/category/configuration-management"
+      },
+      {
+        "type": "category",
+        "label": "Single Sign-On with Keycloak",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/Single Sign-On with Keycloak/Overview",
+            "docId": "Single Sign-On with Keycloak/Overview"
+          },
+          {
+            "type": "link",
+            "label": "Installation & Configuration of Keycloak",
+            "href": "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
+            "docId": "Single Sign-On with Keycloak/Installation & Configuration of Keycloak"
+          },
+          {
+            "type": "link",
+            "label": "How to Integrate Keycloak with AWX",
+            "href": "/docs/Single Sign-On with Keycloak/Integration with AWX",
+            "docId": "Single Sign-On with Keycloak/Integration with AWX"
+          },
+          {
+            "type": "link",
+            "label": "Integration with Grafana",
+            "href": "/docs/Single Sign-On with Keycloak/Integration with Grafana",
+            "docId": "Single Sign-On with Keycloak/Integration with Grafana"
+          }
+        ],
+        "href": "/docs/category/single-sign-on-with-keycloak"
+      },
+      {
+        "type": "category",
+        "label": "Backup",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Backup/Introduction",
+            "docId": "Backup/Introduction"
+          },
+          {
+            "type": "link",
+            "label": "Installatation of Veaam",
+            "href": "/docs/Backup/Installatation of Veaam",
+            "docId": "Backup/Installatation of Veaam"
+          },
+          {
+            "type": "link",
+            "label": "Configuring Veeam",
+            "href": "/docs/Backup/Configuring Veeam",
+            "docId": "Backup/Configuring Veeam"
+          }
+        ],
+        "href": "/docs/category/backup"
+      },
+      {
+        "type": "category",
+        "label": "Disaster Recovery",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "CommingSoon",
+            "href": "/docs/Disaster Recovery/CommingSoon",
+            "docId": "Disaster Recovery/CommingSoon"
+          }
+        ],
+        "href": "/docs/category/disaster-recovery"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations"
+          }
+        ],
+        "href": "/docs/category/tutorial---basics"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/tutorial---extras"
+      }
+    ]
+  },
+  "docs": {
+    "Backup/Configuring Veeam": {
+      "id": "Backup/Configuring Veeam",
+      "title": "Configuring Veeam",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Backup/Installatation of Veaam": {
+      "id": "Backup/Installatation of Veaam",
+      "title": "Installatation of Veaam",
+      "description": "Step 1: Create a K10 Service Account",
+      "sidebar": "tutorialSidebar"
+    },
+    "Backup/Introduction": {
+      "id": "Backup/Introduction",
+      "title": "Introduction",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuration Management/Ansible": {
+      "id": "Configuration Management/Ansible",
+      "title": "Running Ansible Playbook with Dynamic Inventory",
+      "description": "This documentation provides a step-by-step guide on how to run an Ansible playbook with dynamic inventory on Google Cloud Platform (GCP). By the end of this guide, you should be able to transfer an SSH public key to workstations using bash scripts and run an Ansible playbook on GCP instances.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuration Management/Configuring AWX": {
+      "id": "Configuration Management/Configuring AWX",
+      "title": "Configuring AWX",
+      "description": "1- Create organization",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuration Management/Installing AWX": {
+      "id": "Configuration Management/Installing AWX",
+      "title": "Installing AWX",
+      "description": "How to install AWX using kubernetes operator",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuration Management/introduction": {
+      "id": "Configuration Management/introduction",
+      "title": "introduction",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Continous Integration/Installation of Jenkins": {
+      "id": "Continous Integration/Installation of Jenkins",
+      "title": "Installation of Jenkins",
+      "description": "The following steps outline the process of installing and configuring Jenkins for continuous integration.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Continous Integration/overview": {
+      "id": "Continous Integration/overview",
+      "title": "Overview",
+      "description": "This comprehensive guide will provide you with all the information you need to effectively set up and manage your remote development environment.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Disaster Recovery/CommingSoon": {
+      "id": "Disaster Recovery/CommingSoon",
+      "title": "CommingSoon",
+      "description": "- Scaling and managing the infrastructure",
+      "sidebar": "tutorialSidebar"
+    },
+    "Getting Started/Requirements": {
+      "id": "Getting Started/Requirements",
+      "title": "How to start with the project",
+      "description": "In this guide, we'll walk you through the steps necessary to get started with the project.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Infrastructure as a Code/Introduction": {
+      "id": "Infrastructure as a Code/Introduction",
+      "title": "Introduction",
+      "description": "Infrastructure as Code and Terraform",
+      "sidebar": "tutorialSidebar"
+    },
+    "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access": {
+      "id": "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
+      "title": "Add Developer roles and Access",
+      "description": "To add a new developer and role binding, as well as a new role, navigate to infrastructure/modules/IamRbac follow these steps:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster": {
+      "id": "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
+      "title": "Google kubernetes Engine Cluster",
+      "description": "Module Purpose",
+      "sidebar": "tutorialSidebar"
+    },
+    "Infrastructure as a Code/Terraform/TerraformModule/root": {
+      "id": "Infrastructure as a Code/Terraform/TerraformModule/root",
+      "title": "root",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Infrastructure as a Code/Terraform/TerraformModule/Workstation": {
+      "id": "Infrastructure as a Code/Terraform/TerraformModule/Workstation",
+      "title": "Workstation",
+      "description": "Module Purpose",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Project Purpose",
+      "sidebar": "tutorialSidebar"
+    },
+    "Monitoring/Configuration of Grafana Dashboards": {
+      "id": "Monitoring/Configuration of Grafana Dashboards",
+      "title": "Configuration of Grafana Dashboards",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Monitoring/ExposeMetrics": {
+      "id": "Monitoring/ExposeMetrics",
+      "title": "Exposing Metrics for Developer VMs",
+      "description": "To expose metrics for each developer's VM in your project, we will be using Node Exporter. We have prepared a bash script to install Node Exporter using the gcloud CLI and the scp feature.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Monitoring/Installation of Grafana": {
+      "id": "Monitoring/Installation of Grafana",
+      "title": "Installation of Grafana",
+      "description": "To deploy Grafana using the Helm Chart, follow these steps:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Monitoring/Installation of Prometheus": {
+      "id": "Monitoring/Installation of Prometheus",
+      "title": "Installation of Prometheus",
+      "description": "1. Navigate to the Prometheus chart directory:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Monitoring/overview": {
+      "id": "Monitoring/overview",
+      "title": "overview",
+      "description": "Monitoring with Prometheus and Grafana",
+      "sidebar": "tutorialSidebar"
+    },
+    "Single Sign-On with Keycloak/Installation & Configuration of Keycloak": {
+      "id": "Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
+      "title": "Installation & Configuration of Keycloak",
+      "description": "1. Navigate to the Keycloak Helm Chart directory in your Git repo:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Single Sign-On with Keycloak/Integration with AWX": {
+      "id": "Single Sign-On with Keycloak/Integration with AWX",
+      "title": "How to Integrate Keycloak with AWX",
+      "description": "1. Navigate to setttings on AWX -> Miscellaneous System settings",
+      "sidebar": "tutorialSidebar"
+    },
+    "Single Sign-On with Keycloak/Integration with Grafana": {
+      "id": "Single Sign-On with Keycloak/Integration with Grafana",
+      "title": "Integration with Grafana",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "Single Sign-On with Keycloak/Overview": {
+      "id": "Single Sign-On with Keycloak/Overview",
+      "title": "Overview",
+      "description": "Single Sign-On with Keycloak",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
