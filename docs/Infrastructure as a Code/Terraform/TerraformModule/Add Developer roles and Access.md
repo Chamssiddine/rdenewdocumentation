@@ -10,7 +10,6 @@ To add a new developer and role binding, as well as a new role, navigate to `inf
    - Uncomment and customize the `role_rules` if you want to specify custom rules for the developer's role.
    - Save the file.
 
-
 ```python
 locals {
   developers = {

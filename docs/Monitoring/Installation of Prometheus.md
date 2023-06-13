@@ -16,7 +16,7 @@ helm repo add prometheus-community https://prometheus-community.github.io/helm-c
 3. Install Prometheus using the Helm chart. We provided the chart values customized for our needs, but you can make your changes as you wish. Specify the custom values file with -f flag:
 
 ```bash
-helm install prometheus prometheus-community/prometheus -f prometheus_values.yaml --version 19.0.0
+helm install prometheus prometheus-community/prometheus -n monitoring --create-namespace -f prometheus_values.yaml --version 19.0.0
 ```
 
 This will deploy Prometheus in your Kubernetes cluster using the specified configuration in values.yaml file.

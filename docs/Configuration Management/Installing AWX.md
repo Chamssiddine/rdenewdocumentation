@@ -24,7 +24,8 @@ You can modify the specs of AWX to your needs in awx.yml.
 
 ### 3. Run the kustomize command to build the Kubernetes manifest and apply it:
 ```bash
-kustomize build . | kubectl apply -f -
+kubectl apply -k .
+# kustomize build . | kubectl apply -f -
 ```
 ### 3. To get the initial passowrd type in 
 
