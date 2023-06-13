@@ -19,7 +19,7 @@ sidebar_position: 4
 3. Install Grafana using the Helm Chart. We provided a customized `grafana_values.yaml` file for our specific needs, but you can modify it according to your preferences.
 
 ```bash
- helm install Grafana grafana/grafana -f grafana_values.yaml --version 6.50.5
+ helm install grafana grafana/grafana -n monitoring --create-namespace -f grafana_values.yaml --version 6.50.5
 ```
 
 4. After the installation is complete, you can access the Grafana dashboard using the IP address or hostname of the Kubernetes cluster along with the port number. I set it, to Grafana service IP.
