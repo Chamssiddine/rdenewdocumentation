@@ -186,7 +186,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-26b": {
+  "/docs-767": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-6-a-1-46d"
@@ -233,6 +233,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-monitoring-9-cf-5d5"
   },
+  "/docs/category/secrets-2f1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-secrets-6-da-74d"
+  },
   "/docs/category/single-sign-on-with-keycloak-4e4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-single-sign-on-with-keycloakba-8-499"
@@ -260,6 +264,10 @@
   "/docs/Configuration Management/introduction-b7b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-configuration-management-introductiond-6-b-268"
+  },
+  "/docs/Configuration Management/Serverspec-43e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-configuration-management-serverspec-971-aa9"
   },
   "/docs/Continous Integration/Installation of Jenkins-0bf": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -320,6 +328,26 @@
   "/docs/Monitoring/overview-a93": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-monitoring-overview-471-cd2"
+  },
+  "/docs/Secrets/CentralizedSecret-bbd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-secrets-centralized-secretc-9-e-b37"
+  },
+  "/docs/Secrets/Configure Vault-2db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-secrets-configure-vault-3-b-7-d85"
+  },
+  "/docs/Secrets/Install Vault-c63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-secrets-install-vaultd-16-cbf"
+  },
+  "/docs/Secrets/Integrate Vault with helm-bd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-secrets-integrate-vault-with-helm-088-566"
+  },
+  "/docs/Secrets/Integrate Vault with Jenkins-f42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-secrets-integrate-vault-with-jenkinsff-3-ffa"
   },
   "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak-1ff": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -21,7 +21,7 @@
     "permalink": "/docs/Configuration Management/introduction"
   },
   "next": {
-    "title": "Configuring AWX",
-    "permalink": "/docs/Configuration Management/Configuring AWX"
+    "title": "Running Ansible Playbook with Dynamic Inventory",
+    "permalink": "/docs/Configuration Management/Ansible"
   }
 }

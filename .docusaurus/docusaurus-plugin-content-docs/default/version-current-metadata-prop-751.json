@@ -165,15 +165,21 @@
           },
           {
             "type": "link",
+            "label": "Running Ansible Playbook with Dynamic Inventory",
+            "href": "/docs/Configuration Management/Ansible",
+            "docId": "Configuration Management/Ansible"
+          },
+          {
+            "type": "link",
             "label": "Configuring AWX",
             "href": "/docs/Configuration Management/Configuring AWX",
             "docId": "Configuration Management/Configuring AWX"
           },
           {
             "type": "link",
-            "label": "Running Ansible Playbook with Dynamic Inventory",
-            "href": "/docs/Configuration Management/Ansible",
-            "docId": "Configuration Management/Ansible"
+            "label": "Serverspec",
+            "href": "/docs/Configuration Management/Serverspec",
+            "docId": "Configuration Management/Serverspec"
           }
         ],
         "href": "/docs/category/configuration-management"
@@ -219,7 +225,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Introduction",
+            "label": "Veeam Use Cases",
             "href": "/docs/Backup/Introduction",
             "docId": "Backup/Introduction"
           },
@@ -237,6 +243,45 @@
           }
         ],
         "href": "/docs/category/backup"
+      },
+      {
+        "type": "category",
+        "label": "Secrets",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "CentralizedSecret",
+            "href": "/docs/Secrets/CentralizedSecret",
+            "docId": "Secrets/CentralizedSecret"
+          },
+          {
+            "type": "link",
+            "label": "Install Vault",
+            "href": "/docs/Secrets/Install Vault",
+            "docId": "Secrets/Install Vault"
+          },
+          {
+            "type": "link",
+            "label": "Configure Vault Cluster",
+            "href": "/docs/Secrets/Configure Vault",
+            "docId": "Secrets/Configure Vault"
+          },
+          {
+            "type": "link",
+            "label": "Integrate Vault with helm",
+            "href": "/docs/Secrets/Integrate Vault with helm",
+            "docId": "Secrets/Integrate Vault with helm"
+          },
+          {
+            "type": "link",
+            "label": "Integrate Vault with Jenkins",
+            "href": "/docs/Secrets/Integrate Vault with Jenkins",
+            "docId": "Secrets/Integrate Vault with Jenkins"
+          }
+        ],
+        "href": "/docs/category/secrets"
       },
       {
         "type": "category",
@@ -336,8 +381,8 @@
     },
     "Backup/Introduction": {
       "id": "Backup/Introduction",
-      "title": "Introduction",
-      "description": "",
+      "title": "Veeam Use Cases",
+      "description": "Veeam is a comprehensive backup and disaster recovery solution that offers various use cases to meet the needs of different organizations. Here are some common use cases where Veeam proves to be valuable:",
       "sidebar": "tutorialSidebar"
     },
     "Configuration Management/Ansible": {
@@ -349,7 +394,7 @@
     "Configuration Management/Configuring AWX": {
       "id": "Configuration Management/Configuring AWX",
       "title": "Configuring AWX",
-      "description": "1- Create organization",
+      "description": "Requirements",
       "sidebar": "tutorialSidebar"
     },
     "Configuration Management/Installing AWX": {
@@ -362,6 +407,12 @@
       "id": "Configuration Management/introduction",
       "title": "introduction",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuration Management/Serverspec": {
+      "id": "Configuration Management/Serverspec",
+      "title": "Serverspec",
+      "description": "Why Use ServerSpec with Ansible",
       "sidebar": "tutorialSidebar"
     },
     "Continous Integration/Installation of Jenkins": {
@@ -427,7 +478,7 @@
     "Monitoring/Configuration of Grafana Dashboards": {
       "id": "Monitoring/Configuration of Grafana Dashboards",
       "title": "Configuration of Grafana Dashboards",
-      "description": "",
+      "description": "Configuration of Grafana Dashboards",
       "sidebar": "tutorialSidebar"
     },
     "Monitoring/ExposeMetrics": {
@@ -452,6 +503,36 @@
       "id": "Monitoring/overview",
       "title": "overview",
       "description": "Monitoring with Prometheus and Grafana",
+      "sidebar": "tutorialSidebar"
+    },
+    "Secrets/CentralizedSecret": {
+      "id": "Secrets/CentralizedSecret",
+      "title": "CentralizedSecret",
+      "description": "Vault is very important",
+      "sidebar": "tutorialSidebar"
+    },
+    "Secrets/Configure Vault": {
+      "id": "Secrets/Configure Vault",
+      "title": "Configure Vault Cluster",
+      "description": "Step 1: Initialize and unseal one Vault pod",
+      "sidebar": "tutorialSidebar"
+    },
+    "Secrets/Install Vault": {
+      "id": "Secrets/Install Vault",
+      "title": "Install Vault",
+      "description": "Install the Vault Helm chart",
+      "sidebar": "tutorialSidebar"
+    },
+    "Secrets/Integrate Vault with helm": {
+      "id": "Secrets/Integrate Vault with helm",
+      "title": "Integrate Vault with helm",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Secrets/Integrate Vault with Jenkins": {
+      "id": "Secrets/Integrate Vault with Jenkins",
+      "title": "Integrate Vault with Jenkins",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Single Sign-On with Keycloak/Installation & Configuration of Keycloak": {

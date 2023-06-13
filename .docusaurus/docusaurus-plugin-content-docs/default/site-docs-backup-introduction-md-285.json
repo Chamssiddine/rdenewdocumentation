@@ -1,8 +1,8 @@
 {
   "unversionedId": "Backup/Introduction",
   "id": "Backup/Introduction",
-  "title": "Introduction",
-  "description": "",
+  "title": "Veeam Use Cases",
+  "description": "Veeam is a comprehensive backup and disaster recovery solution that offers various use cases to meet the needs of different organizations. Here are some common use cases where Veeam proves to be valuable:",
   "source": "@site/docs/Backup/Introduction.md",
   "sourceDirName": "Backup",
   "slug": "/Backup/Introduction",

@@ -42,8 +42,8 @@
                 "permalink": "/docs/Backup/Installatation of Veaam"
               },
               "next": {
-                "title": "Disaster Recovery",
-                "permalink": "/docs/category/disaster-recovery"
+                "title": "Secrets",
+                "permalink": "/docs/category/secrets"
               }
             },
             {
@@ -65,7 +65,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
+                "title": "Veeam Use Cases",
                 "permalink": "/docs/Backup/Introduction"
               },
               "next": {
@@ -76,8 +76,8 @@
             {
               "unversionedId": "Backup/Introduction",
               "id": "Backup/Introduction",
-              "title": "Introduction",
-              "description": "",
+              "title": "Veeam Use Cases",
+              "description": "Veeam is a comprehensive backup and disaster recovery solution that offers various use cases to meet the needs of different organizations. Here are some common use cases where Veeam proves to be valuable:",
               "source": "@site/docs/Backup/Introduction.md",
               "sourceDirName": "Backup",
               "slug": "/Backup/Introduction",
@@ -113,33 +113,6 @@
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Ansible.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Configuring AWX",
-                "permalink": "/docs/Configuration Management/Configuring AWX"
-              },
-              "next": {
-                "title": "Single Sign-On with Keycloak",
-                "permalink": "/docs/category/single-sign-on-with-keycloak"
-              }
-            },
-            {
-              "unversionedId": "Configuration Management/Configuring AWX",
-              "id": "Configuration Management/Configuring AWX",
-              "title": "Configuring AWX",
-              "description": "1- Create organization",
-              "source": "@site/docs/Configuration Management/Configuring AWX.md",
-              "sourceDirName": "Configuration Management",
-              "slug": "/Configuration Management/Configuring AWX",
-              "permalink": "/docs/Configuration Management/Configuring AWX",
-              "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Configuring AWX.md",
-              "tags": [],
-              "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3
@@ -150,8 +123,35 @@
                 "permalink": "/docs/Configuration Management/Installing AWX"
               },
               "next": {
+                "title": "Configuring AWX",
+                "permalink": "/docs/Configuration Management/Configuring AWX"
+              }
+            },
+            {
+              "unversionedId": "Configuration Management/Configuring AWX",
+              "id": "Configuration Management/Configuring AWX",
+              "title": "Configuring AWX",
+              "description": "Requirements",
+              "source": "@site/docs/Configuration Management/Configuring AWX.md",
+              "sourceDirName": "Configuration Management",
+              "slug": "/Configuration Management/Configuring AWX",
+              "permalink": "/docs/Configuration Management/Configuring AWX",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Configuring AWX.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
                 "title": "Running Ansible Playbook with Dynamic Inventory",
                 "permalink": "/docs/Configuration Management/Ansible"
+              },
+              "next": {
+                "title": "Serverspec",
+                "permalink": "/docs/Configuration Management/Serverspec"
               }
             },
             {
@@ -177,8 +177,8 @@
                 "permalink": "/docs/Configuration Management/introduction"
               },
               "next": {
-                "title": "Configuring AWX",
-                "permalink": "/docs/Configuration Management/Configuring AWX"
+                "title": "Running Ansible Playbook with Dynamic Inventory",
+                "permalink": "/docs/Configuration Management/Ansible"
               }
             },
             {
@@ -206,6 +206,33 @@
               "next": {
                 "title": "Installing AWX",
                 "permalink": "/docs/Configuration Management/Installing AWX"
+              }
+            },
+            {
+              "unversionedId": "Configuration Management/Serverspec",
+              "id": "Configuration Management/Serverspec",
+              "title": "Serverspec",
+              "description": "Why Use ServerSpec with Ansible",
+              "source": "@site/docs/Configuration Management/Serverspec.md",
+              "sourceDirName": "Configuration Management",
+              "slug": "/Configuration Management/Serverspec",
+              "permalink": "/docs/Configuration Management/Serverspec",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Serverspec.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configuring AWX",
+                "permalink": "/docs/Configuration Management/Configuring AWX"
+              },
+              "next": {
+                "title": "Single Sign-On with Keycloak",
+                "permalink": "/docs/category/single-sign-on-with-keycloak"
               }
             },
             {
@@ -478,7 +505,7 @@
               "unversionedId": "Monitoring/Configuration of Grafana Dashboards",
               "id": "Monitoring/Configuration of Grafana Dashboards",
               "title": "Configuration of Grafana Dashboards",
-              "description": "",
+              "description": "Configuration of Grafana Dashboards",
               "source": "@site/docs/Monitoring/Configuration of Grafana Dashboards.md",
               "sourceDirName": "Monitoring",
               "slug": "/Monitoring/Configuration of Grafana Dashboards",
@@ -607,6 +634,141 @@
               "next": {
                 "title": "Exposing Metrics for Developer VMs",
                 "permalink": "/docs/Monitoring/ExposeMetrics"
+              }
+            },
+            {
+              "unversionedId": "Secrets/CentralizedSecret",
+              "id": "Secrets/CentralizedSecret",
+              "title": "CentralizedSecret",
+              "description": "Vault is very important",
+              "source": "@site/docs/Secrets/CentralizedSecret.md",
+              "sourceDirName": "Secrets",
+              "slug": "/Secrets/CentralizedSecret",
+              "permalink": "/docs/Secrets/CentralizedSecret",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/CentralizedSecret.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Secrets",
+                "permalink": "/docs/category/secrets"
+              },
+              "next": {
+                "title": "Install Vault",
+                "permalink": "/docs/Secrets/Install Vault"
+              }
+            },
+            {
+              "unversionedId": "Secrets/Configure Vault",
+              "id": "Secrets/Configure Vault",
+              "title": "Configure Vault Cluster",
+              "description": "Step 1: Initialize and unseal one Vault pod",
+              "source": "@site/docs/Secrets/Configure Vault.md",
+              "sourceDirName": "Secrets",
+              "slug": "/Secrets/Configure Vault",
+              "permalink": "/docs/Secrets/Configure Vault",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Configure Vault.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install Vault",
+                "permalink": "/docs/Secrets/Install Vault"
+              },
+              "next": {
+                "title": "Integrate Vault with helm",
+                "permalink": "/docs/Secrets/Integrate Vault with helm"
+              }
+            },
+            {
+              "unversionedId": "Secrets/Install Vault",
+              "id": "Secrets/Install Vault",
+              "title": "Install Vault",
+              "description": "Install the Vault Helm chart",
+              "source": "@site/docs/Secrets/Install Vault.md",
+              "sourceDirName": "Secrets",
+              "slug": "/Secrets/Install Vault",
+              "permalink": "/docs/Secrets/Install Vault",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Install Vault.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CentralizedSecret",
+                "permalink": "/docs/Secrets/CentralizedSecret"
+              },
+              "next": {
+                "title": "Configure Vault Cluster",
+                "permalink": "/docs/Secrets/Configure Vault"
+              }
+            },
+            {
+              "unversionedId": "Secrets/Integrate Vault with helm",
+              "id": "Secrets/Integrate Vault with helm",
+              "title": "Integrate Vault with helm",
+              "description": "",
+              "source": "@site/docs/Secrets/Integrate Vault with helm.md",
+              "sourceDirName": "Secrets",
+              "slug": "/Secrets/Integrate Vault with helm",
+              "permalink": "/docs/Secrets/Integrate Vault with helm",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Integrate Vault with helm.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configure Vault Cluster",
+                "permalink": "/docs/Secrets/Configure Vault"
+              },
+              "next": {
+                "title": "Integrate Vault with Jenkins",
+                "permalink": "/docs/Secrets/Integrate Vault with Jenkins"
+              }
+            },
+            {
+              "unversionedId": "Secrets/Integrate Vault with Jenkins",
+              "id": "Secrets/Integrate Vault with Jenkins",
+              "title": "Integrate Vault with Jenkins",
+              "description": "",
+              "source": "@site/docs/Secrets/Integrate Vault with Jenkins.md",
+              "sourceDirName": "Secrets",
+              "slug": "/Secrets/Integrate Vault with Jenkins",
+              "permalink": "/docs/Secrets/Integrate Vault with Jenkins",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Integrate Vault with Jenkins.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrate Vault with helm",
+                "permalink": "/docs/Secrets/Integrate Vault with helm"
+              },
+              "next": {
+                "title": "Disaster Recovery",
+                "permalink": "/docs/category/disaster-recovery"
               }
             },
             {
@@ -1074,11 +1236,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Configuration Management/Ansible"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Configuration Management/Configuring AWX"
                   },
                   {
                     "type": "doc",
-                    "id": "Configuration Management/Ansible"
+                    "id": "Configuration Management/Serverspec"
                   }
                 ],
                 "link": {
@@ -1142,6 +1308,40 @@
                   "description": "Enjoy!",
                   "slug": "/category/backup",
                   "permalink": "/docs/category/backup"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Secrets",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Secrets/CentralizedSecret"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Secrets/Install Vault"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Secrets/Configure Vault"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Secrets/Integrate Vault with helm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Secrets/Integrate Vault with Jenkins"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/secrets",
+                  "permalink": "/docs/category/secrets"
                 }
               },
               {

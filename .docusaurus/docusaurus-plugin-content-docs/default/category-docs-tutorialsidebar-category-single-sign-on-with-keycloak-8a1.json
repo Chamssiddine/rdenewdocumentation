@@ -5,8 +5,8 @@
   "permalink": "/docs/category/single-sign-on-with-keycloak",
   "navigation": {
     "previous": {
-      "title": "Running Ansible Playbook with Dynamic Inventory",
-      "permalink": "/docs/Configuration Management/Ansible"
+      "title": "Serverspec",
+      "permalink": "/docs/Configuration Management/Serverspec"
     },
     "next": {
       "title": "Overview",

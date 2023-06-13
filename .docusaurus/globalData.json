@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Configuration Management/Serverspec",
+              "path": "/docs/Configuration Management/Serverspec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Continous Integration/Installation of Jenkins",
               "path": "/docs/Continous Integration/Installation of Jenkins",
               "sidebar": "tutorialSidebar"
@@ -118,6 +123,31 @@
             {
               "id": "Monitoring/overview",
               "path": "/docs/Monitoring/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Secrets/CentralizedSecret",
+              "path": "/docs/Secrets/CentralizedSecret",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Secrets/Configure Vault",
+              "path": "/docs/Secrets/Configure Vault",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Secrets/Install Vault",
+              "path": "/docs/Secrets/Install Vault",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Secrets/Integrate Vault with helm",
+              "path": "/docs/Secrets/Integrate Vault with helm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Secrets/Integrate Vault with Jenkins",
+              "path": "/docs/Secrets/Integrate Vault with Jenkins",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -213,6 +243,11 @@
             {
               "id": "/category/backup",
               "path": "/docs/category/backup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/secrets",
+              "path": "/docs/category/secrets",
               "sidebar": "tutorialSidebar"
             },
             {

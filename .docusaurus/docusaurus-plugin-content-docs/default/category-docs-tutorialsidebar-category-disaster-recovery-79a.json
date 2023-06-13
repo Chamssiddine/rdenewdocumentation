@@ -5,8 +5,8 @@
   "permalink": "/docs/category/disaster-recovery",
   "navigation": {
     "previous": {
-      "title": "Configuring Veeam",
-      "permalink": "/docs/Backup/Configuring Veeam"
+      "title": "Integrate Vault with Jenkins",
+      "permalink": "/docs/Secrets/Integrate Vault with Jenkins"
     },
     "next": {
       "title": "CommingSoon",

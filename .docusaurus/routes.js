@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '26b'),
+    component: ComponentCreator('/docs', '767'),
     routes: [
       {
         path: '/docs/Backup/Configuring Veeam',
@@ -162,6 +162,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/secrets',
+        component: ComponentCreator('/docs/category/secrets', '2f1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/single-sign-on-with-keycloak',
         component: ComponentCreator('/docs/category/single-sign-on-with-keycloak', '4e4'),
         exact: true,
@@ -200,6 +206,12 @@ export default [
       {
         path: '/docs/Configuration Management/introduction',
         component: ComponentCreator('/docs/Configuration Management/introduction', 'b7b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Configuration Management/Serverspec',
+        component: ComponentCreator('/docs/Configuration Management/Serverspec', '43e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -290,6 +302,36 @@ export default [
       {
         path: '/docs/Monitoring/overview',
         component: ComponentCreator('/docs/Monitoring/overview', 'a93'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Secrets/CentralizedSecret',
+        component: ComponentCreator('/docs/Secrets/CentralizedSecret', 'bbd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Secrets/Configure Vault',
+        component: ComponentCreator('/docs/Secrets/Configure Vault', '2db'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Secrets/Install Vault',
+        component: ComponentCreator('/docs/Secrets/Install Vault', 'c63'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Secrets/Integrate Vault with helm',
+        component: ComponentCreator('/docs/Secrets/Integrate Vault with helm', 'bd6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Secrets/Integrate Vault with Jenkins',
+        component: ComponentCreator('/docs/Secrets/Integrate Vault with Jenkins', 'f42'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Ansible.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Configuring AWX",
-    "permalink": "/docs/Configuration Management/Configuring AWX"
+    "title": "Installing AWX",
+    "permalink": "/docs/Configuration Management/Installing AWX"
   },
   "next": {
-    "title": "Single Sign-On with Keycloak",
-    "permalink": "/docs/category/single-sign-on-with-keycloak"
+    "title": "Configuring AWX",
+    "permalink": "/docs/Configuration Management/Configuring AWX"
   }
 }
