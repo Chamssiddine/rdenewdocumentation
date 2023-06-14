@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+  "id": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+  "title": "AWX Pipeline",
+  "description": "",
+  "source": "@site/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline.md",
+  "sourceDirName": "Continous Integration/Configuring Jenkins Pipeline",
+  "slug": "/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+  "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+  "draft": false,
+  "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Infrastructure Creation Pipeline",
+    "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
+  },
+  "next": {
+    "title": "Serverspec Testing Pipeline",
+    "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline"
+  }
+}

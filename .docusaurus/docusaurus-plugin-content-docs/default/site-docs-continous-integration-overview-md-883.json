@@ -6,7 +6,7 @@
   "source": "@site/docs/Continous Integration/overview.md",
   "sourceDirName": "Continous Integration",
   "slug": "/Continous Integration/overview",
-  "permalink": "/docs/Continous Integration/overview",
+  "permalink": "/docs/docs/Continous Integration/overview",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/overview.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Continous Integration",
-    "permalink": "/docs/category/continous-integration"
+    "permalink": "/docs/docs/category/continous-integration"
   },
   "next": {
     "title": "Installation of Jenkins",
-    "permalink": "/docs/Continous Integration/Installation of Jenkins"
+    "permalink": "/docs/docs/Continous Integration/Installation of Jenkins"
   }
 }

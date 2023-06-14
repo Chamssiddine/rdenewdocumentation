@@ -6,7 +6,7 @@
   "source": "@site/docs/Configuration Management/Ansible.md",
   "sourceDirName": "Configuration Management",
   "slug": "/Configuration Management/Ansible",
-  "permalink": "/docs/Configuration Management/Ansible",
+  "permalink": "/docs/docs/Configuration Management/Ansible",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Ansible.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installing AWX",
-    "permalink": "/docs/Configuration Management/Installing AWX"
+    "permalink": "/docs/docs/Configuration Management/Installing AWX"
   },
   "next": {
     "title": "Configuring AWX",
-    "permalink": "/docs/Configuration Management/Configuring AWX"
+    "permalink": "/docs/docs/Configuration Management/Configuring AWX"
   }
 }

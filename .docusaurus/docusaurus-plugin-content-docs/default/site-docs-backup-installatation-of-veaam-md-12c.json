@@ -6,7 +6,7 @@
   "source": "@site/docs/Backup/Installatation of Veaam.md",
   "sourceDirName": "Backup",
   "slug": "/Backup/Installatation of Veaam",
-  "permalink": "/docs/Backup/Installatation of Veaam",
+  "permalink": "/docs/docs/Backup/Installatation of Veaam",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Backup/Installatation of Veaam.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Veeam Use Cases",
-    "permalink": "/docs/Backup/Introduction"
+    "permalink": "/docs/docs/Backup/Introduction"
   },
   "next": {
     "title": "Configuring Veeam",
-    "permalink": "/docs/Backup/Configuring Veeam"
+    "permalink": "/docs/docs/Backup/Configuring Veeam"
   }
 }

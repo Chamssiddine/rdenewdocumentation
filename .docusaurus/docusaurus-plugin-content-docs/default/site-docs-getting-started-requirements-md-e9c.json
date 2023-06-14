@@ -6,7 +6,7 @@
   "source": "@site/docs/Getting Started/Requirements.md",
   "sourceDirName": "Getting Started",
   "slug": "/Getting Started/Requirements",
-  "permalink": "/docs/Getting Started/Requirements",
+  "permalink": "/docs/docs/Getting Started/Requirements",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Getting Started/Requirements.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/docs/category/getting-started"
+    "permalink": "/docs/docs/category/getting-started"
   },
   "next": {
     "title": "Continous Integration",
-    "permalink": "/docs/category/continous-integration"
+    "permalink": "/docs/docs/category/continous-integration"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Disaster Recovery/CommingSoon.md",
   "sourceDirName": "Disaster Recovery",
   "slug": "/Disaster Recovery/CommingSoon",
-  "permalink": "/docs/Disaster Recovery/CommingSoon",
+  "permalink": "/docs/docs/Disaster Recovery/CommingSoon",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Disaster Recovery/CommingSoon.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Disaster Recovery",
-    "permalink": "/docs/category/disaster-recovery"
+    "permalink": "/docs/docs/category/disaster-recovery"
   },
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "permalink": "/docs/docs/category/tutorial---basics"
   }
 }

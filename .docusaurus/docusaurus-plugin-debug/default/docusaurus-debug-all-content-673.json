@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/docs/docs",
+          "tagsPath": "/docs/docs/tags",
           "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs",
           "editUrlLocalized": "https://github.com/Chamssiddine/remote-development-environment/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -27,7 +27,7 @@
               "source": "@site/docs/Backup/Configuring Veeam.md",
               "sourceDirName": "Backup",
               "slug": "/Backup/Configuring Veeam",
-              "permalink": "/docs/Backup/Configuring Veeam",
+              "permalink": "/docs/docs/Backup/Configuring Veeam",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Backup/Configuring Veeam.md",
               "tags": [],
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installatation of Veaam",
-                "permalink": "/docs/Backup/Installatation of Veaam"
+                "permalink": "/docs/docs/Backup/Installatation of Veaam"
               },
               "next": {
                 "title": "Secrets",
-                "permalink": "/docs/category/secrets"
+                "permalink": "/docs/docs/category/secrets"
               }
             },
             {
@@ -54,7 +54,7 @@
               "source": "@site/docs/Backup/Installatation of Veaam.md",
               "sourceDirName": "Backup",
               "slug": "/Backup/Installatation of Veaam",
-              "permalink": "/docs/Backup/Installatation of Veaam",
+              "permalink": "/docs/docs/Backup/Installatation of Veaam",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Backup/Installatation of Veaam.md",
               "tags": [],
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Veeam Use Cases",
-                "permalink": "/docs/Backup/Introduction"
+                "permalink": "/docs/docs/Backup/Introduction"
               },
               "next": {
                 "title": "Configuring Veeam",
-                "permalink": "/docs/Backup/Configuring Veeam"
+                "permalink": "/docs/docs/Backup/Configuring Veeam"
               }
             },
             {
@@ -81,7 +81,7 @@
               "source": "@site/docs/Backup/Introduction.md",
               "sourceDirName": "Backup",
               "slug": "/Backup/Introduction",
-              "permalink": "/docs/Backup/Introduction",
+              "permalink": "/docs/docs/Backup/Introduction",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Backup/Introduction.md",
               "tags": [],
@@ -93,11 +93,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Backup",
-                "permalink": "/docs/category/backup"
+                "permalink": "/docs/docs/category/backup"
               },
               "next": {
                 "title": "Installatation of Veaam",
-                "permalink": "/docs/Backup/Installatation of Veaam"
+                "permalink": "/docs/docs/Backup/Installatation of Veaam"
               }
             },
             {
@@ -108,7 +108,7 @@
               "source": "@site/docs/Configuration Management/Ansible.md",
               "sourceDirName": "Configuration Management",
               "slug": "/Configuration Management/Ansible",
-              "permalink": "/docs/Configuration Management/Ansible",
+              "permalink": "/docs/docs/Configuration Management/Ansible",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Ansible.md",
               "tags": [],
@@ -120,11 +120,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installing AWX",
-                "permalink": "/docs/Configuration Management/Installing AWX"
+                "permalink": "/docs/docs/Configuration Management/Installing AWX"
               },
               "next": {
                 "title": "Configuring AWX",
-                "permalink": "/docs/Configuration Management/Configuring AWX"
+                "permalink": "/docs/docs/Configuration Management/Configuring AWX"
               }
             },
             {
@@ -135,7 +135,7 @@
               "source": "@site/docs/Configuration Management/Configuring AWX.md",
               "sourceDirName": "Configuration Management",
               "slug": "/Configuration Management/Configuring AWX",
-              "permalink": "/docs/Configuration Management/Configuring AWX",
+              "permalink": "/docs/docs/Configuration Management/Configuring AWX",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Configuring AWX.md",
               "tags": [],
@@ -147,11 +147,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Running Ansible Playbook with Dynamic Inventory",
-                "permalink": "/docs/Configuration Management/Ansible"
+                "permalink": "/docs/docs/Configuration Management/Ansible"
               },
               "next": {
                 "title": "Serverspec",
-                "permalink": "/docs/Configuration Management/Serverspec"
+                "permalink": "/docs/docs/Configuration Management/Serverspec"
               }
             },
             {
@@ -162,7 +162,7 @@
               "source": "@site/docs/Configuration Management/Installing AWX.md",
               "sourceDirName": "Configuration Management",
               "slug": "/Configuration Management/Installing AWX",
-              "permalink": "/docs/Configuration Management/Installing AWX",
+              "permalink": "/docs/docs/Configuration Management/Installing AWX",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Installing AWX.md",
               "tags": [],
@@ -174,11 +174,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "introduction",
-                "permalink": "/docs/Configuration Management/introduction"
+                "permalink": "/docs/docs/Configuration Management/introduction"
               },
               "next": {
                 "title": "Running Ansible Playbook with Dynamic Inventory",
-                "permalink": "/docs/Configuration Management/Ansible"
+                "permalink": "/docs/docs/Configuration Management/Ansible"
               }
             },
             {
@@ -189,7 +189,7 @@
               "source": "@site/docs/Configuration Management/introduction.md",
               "sourceDirName": "Configuration Management",
               "slug": "/Configuration Management/introduction",
-              "permalink": "/docs/Configuration Management/introduction",
+              "permalink": "/docs/docs/Configuration Management/introduction",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/introduction.md",
               "tags": [],
@@ -201,11 +201,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Configuration Management",
-                "permalink": "/docs/category/configuration-management"
+                "permalink": "/docs/docs/category/configuration-management"
               },
               "next": {
                 "title": "Installing AWX",
-                "permalink": "/docs/Configuration Management/Installing AWX"
+                "permalink": "/docs/docs/Configuration Management/Installing AWX"
               }
             },
             {
@@ -216,7 +216,7 @@
               "source": "@site/docs/Configuration Management/Serverspec.md",
               "sourceDirName": "Configuration Management",
               "slug": "/Configuration Management/Serverspec",
-              "permalink": "/docs/Configuration Management/Serverspec",
+              "permalink": "/docs/docs/Configuration Management/Serverspec",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Serverspec.md",
               "tags": [],
@@ -228,11 +228,92 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Configuring AWX",
-                "permalink": "/docs/Configuration Management/Configuring AWX"
+                "permalink": "/docs/docs/Configuration Management/Configuring AWX"
               },
               "next": {
                 "title": "Single Sign-On with Keycloak",
-                "permalink": "/docs/category/single-sign-on-with-keycloak"
+                "permalink": "/docs/docs/category/single-sign-on-with-keycloak"
+              }
+            },
+            {
+              "unversionedId": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+              "id": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+              "title": "AWX Pipeline",
+              "description": "",
+              "source": "@site/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline.md",
+              "sourceDirName": "Continous Integration/Configuring Jenkins Pipeline",
+              "slug": "/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+              "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Infrastructure Creation Pipeline",
+                "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
+              },
+              "next": {
+                "title": "Serverspec Testing Pipeline",
+                "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline"
+              }
+            },
+            {
+              "unversionedId": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
+              "id": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
+              "title": "Infrastructure Creation Pipeline",
+              "description": "Overview",
+              "source": "@site/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline.md",
+              "sourceDirName": "Continous Integration/Configuring Jenkins Pipeline",
+              "slug": "/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
+              "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation of Jenkins",
+                "permalink": "/docs/docs/Continous Integration/Installation of Jenkins"
+              },
+              "next": {
+                "title": "AWX Pipeline",
+                "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
+              }
+            },
+            {
+              "unversionedId": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
+              "id": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
+              "title": "Serverspec Testing Pipeline",
+              "description": "The Serverspec Testing pipeline is responsible for executing Serverspec tests on multiple instances in parallel. It automates the process of installing Serverspec on developers' instances, copying the test files, and running the tests.",
+              "source": "@site/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline.md",
+              "sourceDirName": "Continous Integration/Configuring Jenkins Pipeline",
+              "slug": "/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
+              "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AWX Pipeline",
+                "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
+              },
+              "next": {
+                "title": "Infrastructure as a Code",
+                "permalink": "/docs/docs/category/infrastructure-as-a-code"
               }
             },
             {
@@ -243,7 +324,7 @@
               "source": "@site/docs/Continous Integration/Installation of Jenkins.md",
               "sourceDirName": "Continous Integration",
               "slug": "/Continous Integration/Installation of Jenkins",
-              "permalink": "/docs/Continous Integration/Installation of Jenkins",
+              "permalink": "/docs/docs/Continous Integration/Installation of Jenkins",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Installation of Jenkins.md",
               "tags": [],
@@ -255,11 +336,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Overview",
-                "permalink": "/docs/Continous Integration/overview"
+                "permalink": "/docs/docs/Continous Integration/overview"
               },
               "next": {
-                "title": "Infrastructure as a Code",
-                "permalink": "/docs/category/infrastructure-as-a-code"
+                "title": "Infrastructure Creation Pipeline",
+                "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
               }
             },
             {
@@ -270,7 +351,7 @@
               "source": "@site/docs/Continous Integration/overview.md",
               "sourceDirName": "Continous Integration",
               "slug": "/Continous Integration/overview",
-              "permalink": "/docs/Continous Integration/overview",
+              "permalink": "/docs/docs/Continous Integration/overview",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/overview.md",
               "tags": [],
@@ -282,11 +363,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Continous Integration",
-                "permalink": "/docs/category/continous-integration"
+                "permalink": "/docs/docs/category/continous-integration"
               },
               "next": {
                 "title": "Installation of Jenkins",
-                "permalink": "/docs/Continous Integration/Installation of Jenkins"
+                "permalink": "/docs/docs/Continous Integration/Installation of Jenkins"
               }
             },
             {
@@ -297,7 +378,7 @@
               "source": "@site/docs/Disaster Recovery/CommingSoon.md",
               "sourceDirName": "Disaster Recovery",
               "slug": "/Disaster Recovery/CommingSoon",
-              "permalink": "/docs/Disaster Recovery/CommingSoon",
+              "permalink": "/docs/docs/Disaster Recovery/CommingSoon",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Disaster Recovery/CommingSoon.md",
               "tags": [],
@@ -309,11 +390,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Disaster Recovery",
-                "permalink": "/docs/category/disaster-recovery"
+                "permalink": "/docs/docs/category/disaster-recovery"
               },
               "next": {
                 "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "permalink": "/docs/docs/category/tutorial---basics"
               }
             },
             {
@@ -324,7 +405,7 @@
               "source": "@site/docs/Getting Started/Requirements.md",
               "sourceDirName": "Getting Started",
               "slug": "/Getting Started/Requirements",
-              "permalink": "/docs/Getting Started/Requirements",
+              "permalink": "/docs/docs/Getting Started/Requirements",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Getting Started/Requirements.md",
               "tags": [],
@@ -336,11 +417,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
+                "permalink": "/docs/docs/category/getting-started"
               },
               "next": {
                 "title": "Continous Integration",
-                "permalink": "/docs/category/continous-integration"
+                "permalink": "/docs/docs/category/continous-integration"
               }
             },
             {
@@ -351,7 +432,7 @@
               "source": "@site/docs/Infrastructure as a Code/Introduction.md",
               "sourceDirName": "Infrastructure as a Code",
               "slug": "/Infrastructure as a Code/Introduction",
-              "permalink": "/docs/Infrastructure as a Code/Introduction",
+              "permalink": "/docs/docs/Infrastructure as a Code/Introduction",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Infrastructure as a Code/Introduction.md",
               "tags": [],
@@ -363,11 +444,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Infrastructure as a Code",
-                "permalink": "/docs/category/infrastructure-as-a-code"
+                "permalink": "/docs/docs/category/infrastructure-as-a-code"
               },
               "next": {
                 "title": "root",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
               }
             },
             {
@@ -378,7 +459,7 @@
               "source": "@site/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access.md",
               "sourceDirName": "Infrastructure as a Code/Terraform/TerraformModule",
               "slug": "/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
-              "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
+              "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access.md",
               "tags": [],
@@ -390,11 +471,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Google kubernetes Engine Cluster",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
               },
               "next": {
                 "title": "Monitoring",
-                "permalink": "/docs/category/monitoring"
+                "permalink": "/docs/docs/category/monitoring"
               }
             },
             {
@@ -405,7 +486,7 @@
               "source": "@site/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster.md",
               "sourceDirName": "Infrastructure as a Code/Terraform/TerraformModule",
               "slug": "/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
-              "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
+              "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster.md",
               "tags": [],
@@ -417,11 +498,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Workstation",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation"
               },
               "next": {
                 "title": "Add Developer roles and Access",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access"
               }
             },
             {
@@ -432,7 +513,7 @@
               "source": "@site/docs/Infrastructure as a Code/Terraform/TerraformModule/root.md",
               "sourceDirName": "Infrastructure as a Code/Terraform/TerraformModule",
               "slug": "/Infrastructure as a Code/Terraform/TerraformModule/root",
-              "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
+              "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Infrastructure as a Code/Terraform/TerraformModule/root.md",
               "tags": [],
@@ -444,11 +525,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/docs/Infrastructure as a Code/Introduction"
+                "permalink": "/docs/docs/Infrastructure as a Code/Introduction"
               },
               "next": {
                 "title": "Workstation",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation"
               }
             },
             {
@@ -459,7 +540,7 @@
               "source": "@site/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation.md",
               "sourceDirName": "Infrastructure as a Code/Terraform/TerraformModule",
               "slug": "/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
-              "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
+              "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation.md",
               "tags": [],
@@ -471,11 +552,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "root",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
               },
               "next": {
                 "title": "Google kubernetes Engine Cluster",
-                "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
+                "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
               }
             },
             {
@@ -486,7 +567,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/docs/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/intro.md",
               "tags": [],
@@ -498,7 +579,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
+                "permalink": "/docs/docs/category/getting-started"
               }
             },
             {
@@ -509,7 +590,7 @@
               "source": "@site/docs/Monitoring/Configuration of Grafana Dashboards.md",
               "sourceDirName": "Monitoring",
               "slug": "/Monitoring/Configuration of Grafana Dashboards",
-              "permalink": "/docs/Monitoring/Configuration of Grafana Dashboards",
+              "permalink": "/docs/docs/Monitoring/Configuration of Grafana Dashboards",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/Configuration of Grafana Dashboards.md",
               "tags": [],
@@ -521,11 +602,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installation of Grafana",
-                "permalink": "/docs/Monitoring/Installation of Grafana"
+                "permalink": "/docs/docs/Monitoring/Installation of Grafana"
               },
               "next": {
                 "title": "Configuration Management",
-                "permalink": "/docs/category/configuration-management"
+                "permalink": "/docs/docs/category/configuration-management"
               }
             },
             {
@@ -536,7 +617,7 @@
               "source": "@site/docs/Monitoring/ExposeMetrics.md",
               "sourceDirName": "Monitoring",
               "slug": "/Monitoring/ExposeMetrics",
-              "permalink": "/docs/Monitoring/ExposeMetrics",
+              "permalink": "/docs/docs/Monitoring/ExposeMetrics",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/ExposeMetrics.md",
               "tags": [],
@@ -548,11 +629,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "overview",
-                "permalink": "/docs/Monitoring/overview"
+                "permalink": "/docs/docs/Monitoring/overview"
               },
               "next": {
                 "title": "Installation of Prometheus",
-                "permalink": "/docs/Monitoring/Installation of Prometheus"
+                "permalink": "/docs/docs/Monitoring/Installation of Prometheus"
               }
             },
             {
@@ -563,7 +644,7 @@
               "source": "@site/docs/Monitoring/Installation of Grafana.md",
               "sourceDirName": "Monitoring",
               "slug": "/Monitoring/Installation of Grafana",
-              "permalink": "/docs/Monitoring/Installation of Grafana",
+              "permalink": "/docs/docs/Monitoring/Installation of Grafana",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/Installation of Grafana.md",
               "tags": [],
@@ -575,11 +656,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installation of Prometheus",
-                "permalink": "/docs/Monitoring/Installation of Prometheus"
+                "permalink": "/docs/docs/Monitoring/Installation of Prometheus"
               },
               "next": {
                 "title": "Configuration of Grafana Dashboards",
-                "permalink": "/docs/Monitoring/Configuration of Grafana Dashboards"
+                "permalink": "/docs/docs/Monitoring/Configuration of Grafana Dashboards"
               }
             },
             {
@@ -590,7 +671,7 @@
               "source": "@site/docs/Monitoring/Installation of Prometheus.md",
               "sourceDirName": "Monitoring",
               "slug": "/Monitoring/Installation of Prometheus",
-              "permalink": "/docs/Monitoring/Installation of Prometheus",
+              "permalink": "/docs/docs/Monitoring/Installation of Prometheus",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/Installation of Prometheus.md",
               "tags": [],
@@ -602,11 +683,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Exposing Metrics for Developer VMs",
-                "permalink": "/docs/Monitoring/ExposeMetrics"
+                "permalink": "/docs/docs/Monitoring/ExposeMetrics"
               },
               "next": {
                 "title": "Installation of Grafana",
-                "permalink": "/docs/Monitoring/Installation of Grafana"
+                "permalink": "/docs/docs/Monitoring/Installation of Grafana"
               }
             },
             {
@@ -617,7 +698,7 @@
               "source": "@site/docs/Monitoring/overview.md",
               "sourceDirName": "Monitoring",
               "slug": "/Monitoring/overview",
-              "permalink": "/docs/Monitoring/overview",
+              "permalink": "/docs/docs/Monitoring/overview",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/overview.md",
               "tags": [],
@@ -629,11 +710,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Monitoring",
-                "permalink": "/docs/category/monitoring"
+                "permalink": "/docs/docs/category/monitoring"
               },
               "next": {
                 "title": "Exposing Metrics for Developer VMs",
-                "permalink": "/docs/Monitoring/ExposeMetrics"
+                "permalink": "/docs/docs/Monitoring/ExposeMetrics"
               }
             },
             {
@@ -644,7 +725,7 @@
               "source": "@site/docs/Secrets/CentralizedSecret.md",
               "sourceDirName": "Secrets",
               "slug": "/Secrets/CentralizedSecret",
-              "permalink": "/docs/Secrets/CentralizedSecret",
+              "permalink": "/docs/docs/Secrets/CentralizedSecret",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/CentralizedSecret.md",
               "tags": [],
@@ -656,11 +737,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Secrets",
-                "permalink": "/docs/category/secrets"
+                "permalink": "/docs/docs/category/secrets"
               },
               "next": {
                 "title": "Install Vault",
-                "permalink": "/docs/Secrets/Install Vault"
+                "permalink": "/docs/docs/Secrets/Install Vault"
               }
             },
             {
@@ -671,7 +752,7 @@
               "source": "@site/docs/Secrets/Configure Vault.md",
               "sourceDirName": "Secrets",
               "slug": "/Secrets/Configure Vault",
-              "permalink": "/docs/Secrets/Configure Vault",
+              "permalink": "/docs/docs/Secrets/Configure Vault",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Configure Vault.md",
               "tags": [],
@@ -683,11 +764,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Install Vault",
-                "permalink": "/docs/Secrets/Install Vault"
+                "permalink": "/docs/docs/Secrets/Install Vault"
               },
               "next": {
                 "title": "Integrate Vault with helm",
-                "permalink": "/docs/Secrets/Integrate Vault with helm"
+                "permalink": "/docs/docs/Secrets/Integrate Vault with helm"
               }
             },
             {
@@ -698,7 +779,7 @@
               "source": "@site/docs/Secrets/Install Vault.md",
               "sourceDirName": "Secrets",
               "slug": "/Secrets/Install Vault",
-              "permalink": "/docs/Secrets/Install Vault",
+              "permalink": "/docs/docs/Secrets/Install Vault",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Install Vault.md",
               "tags": [],
@@ -710,11 +791,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "CentralizedSecret",
-                "permalink": "/docs/Secrets/CentralizedSecret"
+                "permalink": "/docs/docs/Secrets/CentralizedSecret"
               },
               "next": {
                 "title": "Configure Vault Cluster",
-                "permalink": "/docs/Secrets/Configure Vault"
+                "permalink": "/docs/docs/Secrets/Configure Vault"
               }
             },
             {
@@ -725,7 +806,7 @@
               "source": "@site/docs/Secrets/Integrate Vault with helm.md",
               "sourceDirName": "Secrets",
               "slug": "/Secrets/Integrate Vault with helm",
-              "permalink": "/docs/Secrets/Integrate Vault with helm",
+              "permalink": "/docs/docs/Secrets/Integrate Vault with helm",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Integrate Vault with helm.md",
               "tags": [],
@@ -737,11 +818,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Configure Vault Cluster",
-                "permalink": "/docs/Secrets/Configure Vault"
+                "permalink": "/docs/docs/Secrets/Configure Vault"
               },
               "next": {
                 "title": "Integrate Vault with Jenkins",
-                "permalink": "/docs/Secrets/Integrate Vault with Jenkins"
+                "permalink": "/docs/docs/Secrets/Integrate Vault with Jenkins"
               }
             },
             {
@@ -752,7 +833,7 @@
               "source": "@site/docs/Secrets/Integrate Vault with Jenkins.md",
               "sourceDirName": "Secrets",
               "slug": "/Secrets/Integrate Vault with Jenkins",
-              "permalink": "/docs/Secrets/Integrate Vault with Jenkins",
+              "permalink": "/docs/docs/Secrets/Integrate Vault with Jenkins",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Secrets/Integrate Vault with Jenkins.md",
               "tags": [],
@@ -764,11 +845,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Integrate Vault with helm",
-                "permalink": "/docs/Secrets/Integrate Vault with helm"
+                "permalink": "/docs/docs/Secrets/Integrate Vault with helm"
               },
               "next": {
                 "title": "Disaster Recovery",
-                "permalink": "/docs/category/disaster-recovery"
+                "permalink": "/docs/docs/category/disaster-recovery"
               }
             },
             {
@@ -779,7 +860,7 @@
               "source": "@site/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak.md",
               "sourceDirName": "Single Sign-On with Keycloak",
               "slug": "/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
-              "permalink": "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
+              "permalink": "/docs/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak.md",
               "tags": [],
@@ -791,11 +872,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Overview",
-                "permalink": "/docs/Single Sign-On with Keycloak/Overview"
+                "permalink": "/docs/docs/Single Sign-On with Keycloak/Overview"
               },
               "next": {
                 "title": "How to Integrate Keycloak with AWX",
-                "permalink": "/docs/Single Sign-On with Keycloak/Integration with AWX"
+                "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with AWX"
               }
             },
             {
@@ -806,7 +887,7 @@
               "source": "@site/docs/Single Sign-On with Keycloak/Integration with AWX.md",
               "sourceDirName": "Single Sign-On with Keycloak",
               "slug": "/Single Sign-On with Keycloak/Integration with AWX",
-              "permalink": "/docs/Single Sign-On with Keycloak/Integration with AWX",
+              "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with AWX",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Single Sign-On with Keycloak/Integration with AWX.md",
               "tags": [],
@@ -818,11 +899,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Installation & Configuration of Keycloak",
-                "permalink": "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak"
+                "permalink": "/docs/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak"
               },
               "next": {
                 "title": "Integration with Grafana",
-                "permalink": "/docs/Single Sign-On with Keycloak/Integration with Grafana"
+                "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with Grafana"
               }
             },
             {
@@ -833,7 +914,7 @@
               "source": "@site/docs/Single Sign-On with Keycloak/Integration with Grafana.md",
               "sourceDirName": "Single Sign-On with Keycloak",
               "slug": "/Single Sign-On with Keycloak/Integration with Grafana",
-              "permalink": "/docs/Single Sign-On with Keycloak/Integration with Grafana",
+              "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with Grafana",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Single Sign-On with Keycloak/Integration with Grafana.md",
               "tags": [],
@@ -842,11 +923,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "How to Integrate Keycloak with AWX",
-                "permalink": "/docs/Single Sign-On with Keycloak/Integration with AWX"
+                "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with AWX"
               },
               "next": {
                 "title": "Backup",
-                "permalink": "/docs/category/backup"
+                "permalink": "/docs/docs/category/backup"
               }
             },
             {
@@ -857,7 +938,7 @@
               "source": "@site/docs/Single Sign-On with Keycloak/Overview.md",
               "sourceDirName": "Single Sign-On with Keycloak",
               "slug": "/Single Sign-On with Keycloak/Overview",
-              "permalink": "/docs/Single Sign-On with Keycloak/Overview",
+              "permalink": "/docs/docs/Single Sign-On with Keycloak/Overview",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Single Sign-On with Keycloak/Overview.md",
               "tags": [],
@@ -869,11 +950,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Single Sign-On with Keycloak",
-                "permalink": "/docs/category/single-sign-on-with-keycloak"
+                "permalink": "/docs/docs/category/single-sign-on-with-keycloak"
               },
               "next": {
                 "title": "Installation & Configuration of Keycloak",
-                "permalink": "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak"
+                "permalink": "/docs/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak"
               }
             },
             {
@@ -884,7 +965,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "permalink": "/docs/docs/tutorial-basics/congratulations",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-basics/congratulations.md",
               "tags": [],
@@ -896,11 +977,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/docs/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "permalink": "/docs/docs/category/tutorial---extras"
               }
             },
             {
@@ -911,7 +992,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
@@ -923,11 +1004,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/docs/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/docs/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -938,7 +1019,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "permalink": "/docs/docs/tutorial-basics/create-a-document",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-basics/create-a-document.md",
               "tags": [],
@@ -950,11 +1031,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "permalink": "/docs/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -965,7 +1046,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "permalink": "/docs/docs/tutorial-basics/create-a-page",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-basics/create-a-page.md",
               "tags": [],
@@ -977,11 +1058,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "permalink": "/docs/docs/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/docs/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -992,7 +1073,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/docs/tutorial-basics/deploy-your-site",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
@@ -1004,11 +1085,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/docs/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "permalink": "/docs/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -1019,7 +1100,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/docs/docs/tutorial-basics/markdown-features",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
@@ -1031,11 +1112,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/docs/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -1046,7 +1127,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
@@ -1058,11 +1139,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "permalink": "/docs/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "permalink": "/docs/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -1073,7 +1154,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/docs/docs/tutorial-extras/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
@@ -1085,7 +1166,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/docs/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ],
@@ -1111,7 +1192,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/getting-started",
-                  "permalink": "/docs/category/getting-started"
+                  "permalink": "/docs/docs/category/getting-started"
                 }
               },
               {
@@ -1127,13 +1208,33 @@
                   {
                     "type": "doc",
                     "id": "Continous Integration/Installation of Jenkins"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Configuring Jenkins Pipeline",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline"
+                      }
+                    ]
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/continous-integration",
-                  "permalink": "/docs/category/continous-integration"
+                  "permalink": "/docs/docs/category/continous-integration"
                 }
               },
               {
@@ -1183,7 +1284,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/infrastructure-as-a-code",
-                  "permalink": "/docs/category/infrastructure-as-a-code"
+                  "permalink": "/docs/docs/category/infrastructure-as-a-code"
                 }
               },
               {
@@ -1217,7 +1318,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/monitoring",
-                  "permalink": "/docs/category/monitoring"
+                  "permalink": "/docs/docs/category/monitoring"
                 }
               },
               {
@@ -1251,7 +1352,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/configuration-management",
-                  "permalink": "/docs/category/configuration-management"
+                  "permalink": "/docs/docs/category/configuration-management"
                 }
               },
               {
@@ -1281,7 +1382,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/single-sign-on-with-keycloak",
-                  "permalink": "/docs/category/single-sign-on-with-keycloak"
+                  "permalink": "/docs/docs/category/single-sign-on-with-keycloak"
                 }
               },
               {
@@ -1307,7 +1408,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/backup",
-                  "permalink": "/docs/category/backup"
+                  "permalink": "/docs/docs/category/backup"
                 }
               },
               {
@@ -1341,7 +1442,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/secrets",
-                  "permalink": "/docs/category/secrets"
+                  "permalink": "/docs/docs/category/secrets"
                 }
               },
               {
@@ -1359,7 +1460,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/disaster-recovery",
-                  "permalink": "/docs/category/disaster-recovery"
+                  "permalink": "/docs/docs/category/disaster-recovery"
                 }
               },
               {
@@ -1397,7 +1498,7 @@
                   "type": "generated-index",
                   "description": "Enjoy!",
                   "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "permalink": "/docs/docs/category/tutorial---basics"
                 }
               },
               {
@@ -1418,7 +1519,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "permalink": "/docs/docs/category/tutorial---extras"
                 }
               }
             ]
@@ -1434,7 +1535,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/docs/blog/welcome",
             "editUrl": "https://github.com/Chamssiddine/remote-development-environment/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -1444,15 +1545,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/docs/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -1488,7 +1589,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/docs/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -1496,7 +1597,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/docs/blog/mdx-blog-post",
             "editUrl": "https://github.com/Chamssiddine/remote-development-environment/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -1506,7 +1607,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -1532,11 +1633,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/docs/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/docs/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -1544,7 +1645,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/docs/blog/long-blog-post",
             "editUrl": "https://github.com/Chamssiddine/remote-development-environment/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -1554,11 +1655,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -1583,11 +1684,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/docs/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/docs/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -1595,7 +1696,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/docs/blog/first-blog-post",
             "editUrl": "https://github.com/Chamssiddine/remote-development-environment/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -1605,11 +1706,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/docs/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -1640,7 +1741,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/docs/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -1655,7 +1756,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/docs/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1666,19 +1767,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/docs/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/docs/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/docs/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1689,13 +1790,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/docs/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/docs/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -1703,7 +1804,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/docs/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1714,7 +1815,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/docs/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -1722,7 +1823,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/docs/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -1732,7 +1833,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/docs/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1743,19 +1844,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/docs/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/docs/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/docs/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1767,19 +1868,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/docs/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "hello",
         "description": "You don't need React to write simple standalone pages.",

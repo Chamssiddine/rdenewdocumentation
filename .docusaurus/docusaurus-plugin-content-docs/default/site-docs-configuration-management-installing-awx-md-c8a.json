@@ -6,7 +6,7 @@
   "source": "@site/docs/Configuration Management/Installing AWX.md",
   "sourceDirName": "Configuration Management",
   "slug": "/Configuration Management/Installing AWX",
-  "permalink": "/docs/Configuration Management/Installing AWX",
+  "permalink": "/docs/docs/Configuration Management/Installing AWX",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Installing AWX.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "introduction",
-    "permalink": "/docs/Configuration Management/introduction"
+    "permalink": "/docs/docs/Configuration Management/introduction"
   },
   "next": {
     "title": "Running Ansible Playbook with Dynamic Inventory",
-    "permalink": "/docs/Configuration Management/Ansible"
+    "permalink": "/docs/docs/Configuration Management/Ansible"
   }
 }
