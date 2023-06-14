@@ -6,7 +6,7 @@
   "source": "@site/docs/Monitoring/overview.md",
   "sourceDirName": "Monitoring",
   "slug": "/Monitoring/overview",
-  "permalink": "/docs/docs/Monitoring/overview",
+  "permalink": "/docs/Monitoring/overview",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/overview.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Monitoring",
-    "permalink": "/docs/docs/category/monitoring"
+    "permalink": "/docs/category/monitoring"
   },
   "next": {
     "title": "Exposing Metrics for Developer VMs",
-    "permalink": "/docs/docs/Monitoring/ExposeMetrics"
+    "permalink": "/docs/Monitoring/ExposeMetrics"
   }
 }

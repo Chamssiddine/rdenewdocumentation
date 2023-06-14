@@ -6,7 +6,7 @@
   "source": "@site/docs/Continous Integration/Installation of Jenkins.md",
   "sourceDirName": "Continous Integration",
   "slug": "/Continous Integration/Installation of Jenkins",
-  "permalink": "/docs/docs/Continous Integration/Installation of Jenkins",
+  "permalink": "/docs/Continous Integration/Installation of Jenkins",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Installation of Jenkins.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/docs/docs/Continous Integration/overview"
+    "permalink": "/docs/Continous Integration/overview"
   },
   "next": {
-    "title": "Infrastructure Creation Pipeline",
-    "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
+    "title": "Infrastructure as a Code",
+    "permalink": "/docs/category/infrastructure-as-a-code"
   }
 }

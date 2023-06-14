@@ -6,7 +6,7 @@
   "source": "@site/docs/Monitoring/ExposeMetrics.md",
   "sourceDirName": "Monitoring",
   "slug": "/Monitoring/ExposeMetrics",
-  "permalink": "/docs/docs/Monitoring/ExposeMetrics",
+  "permalink": "/docs/Monitoring/ExposeMetrics",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/ExposeMetrics.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "overview",
-    "permalink": "/docs/docs/Monitoring/overview"
+    "permalink": "/docs/Monitoring/overview"
   },
   "next": {
     "title": "Installation of Prometheus",
-    "permalink": "/docs/docs/Monitoring/Installation of Prometheus"
+    "permalink": "/docs/Monitoring/Installation of Prometheus"
   }
 }

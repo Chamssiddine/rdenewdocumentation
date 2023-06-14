@@ -9,8 +9,8 @@
       "permalink": "/docs/Getting Started/Requirements"
     },
     "next": {
-      "title": "Overview",
-      "permalink": "/docs/Continous Integration/overview"
+      "title": "Configuring Jenkins Pipeline",
+      "permalink": "/docs/category/configuring-jenkins-pipeline"
     }
   }
 }

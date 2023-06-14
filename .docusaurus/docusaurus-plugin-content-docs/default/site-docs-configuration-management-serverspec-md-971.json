@@ -6,7 +6,7 @@
   "source": "@site/docs/Configuration Management/Serverspec.md",
   "sourceDirName": "Configuration Management",
   "slug": "/Configuration Management/Serverspec",
-  "permalink": "/docs/docs/Configuration Management/Serverspec",
+  "permalink": "/docs/Configuration Management/Serverspec",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Serverspec.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Configuring AWX",
-    "permalink": "/docs/docs/Configuration Management/Configuring AWX"
+    "permalink": "/docs/Configuration Management/Configuring AWX"
   },
   "next": {
     "title": "Single Sign-On with Keycloak",
-    "permalink": "/docs/docs/category/single-sign-on-with-keycloak"
+    "permalink": "/docs/category/single-sign-on-with-keycloak"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak.md",
   "sourceDirName": "Single Sign-On with Keycloak",
   "slug": "/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
-  "permalink": "/docs/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
+  "permalink": "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/docs/docs/Single Sign-On with Keycloak/Overview"
+    "permalink": "/docs/Single Sign-On with Keycloak/Overview"
   },
   "next": {
     "title": "How to Integrate Keycloak with AWX",
-    "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with AWX"
+    "permalink": "/docs/Single Sign-On with Keycloak/Integration with AWX"
   }
 }

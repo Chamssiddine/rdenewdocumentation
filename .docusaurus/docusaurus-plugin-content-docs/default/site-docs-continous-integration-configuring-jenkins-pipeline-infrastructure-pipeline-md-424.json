@@ -6,7 +6,7 @@
   "source": "@site/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline.md",
   "sourceDirName": "Continous Integration/Configuring Jenkins Pipeline",
   "slug": "/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
-  "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
+  "permalink": "/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline.md",
   "tags": [],
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Installation of Jenkins",
-    "permalink": "/docs/docs/Continous Integration/Installation of Jenkins"
+    "title": "Configuring Jenkins Pipeline",
+    "permalink": "/docs/category/configuring-jenkins-pipeline"
   },
   "next": {
     "title": "AWX Trigger Pipeline",
-    "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
+    "permalink": "/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
   }
 }

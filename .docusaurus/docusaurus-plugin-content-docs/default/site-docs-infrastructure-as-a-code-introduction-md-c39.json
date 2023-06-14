@@ -6,7 +6,7 @@
   "source": "@site/docs/Infrastructure as a Code/Introduction.md",
   "sourceDirName": "Infrastructure as a Code",
   "slug": "/Infrastructure as a Code/Introduction",
-  "permalink": "/docs/docs/Infrastructure as a Code/Introduction",
+  "permalink": "/docs/Infrastructure as a Code/Introduction",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Infrastructure as a Code/Introduction.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Infrastructure as a Code",
-    "permalink": "/docs/docs/category/infrastructure-as-a-code"
+    "permalink": "/docs/category/infrastructure-as-a-code"
   },
   "next": {
     "title": "root",
-    "permalink": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
+    "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
   }
 }

@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,11 +24,11 @@
           {
             "type": "link",
             "label": "How to start with the project",
-            "href": "/docs/docs/Getting Started/Requirements",
+            "href": "/docs/Getting Started/Requirements",
             "docId": "Getting Started/Requirements"
           }
         ],
-        "href": "/docs/docs/category/getting-started"
+        "href": "/docs/category/getting-started"
       },
       {
         "type": "category",
@@ -36,18 +36,6 @@
         "collapsible": true,
         "collapsed": true,
         "items": [
-          {
-            "type": "link",
-            "label": "Overview",
-            "href": "/docs/docs/Continous Integration/overview",
-            "docId": "Continous Integration/overview"
-          },
-          {
-            "type": "link",
-            "label": "Installation of Jenkins",
-            "href": "/docs/docs/Continous Integration/Installation of Jenkins",
-            "docId": "Continous Integration/Installation of Jenkins"
-          },
           {
             "type": "category",
             "label": "Configuring Jenkins Pipeline",
@@ -57,25 +45,38 @@
               {
                 "type": "link",
                 "label": "Infrastructure Creation Pipeline",
-                "href": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
+                "href": "/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
                 "docId": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
               },
               {
                 "type": "link",
                 "label": "AWX Trigger Pipeline",
-                "href": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
+                "href": "/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
                 "docId": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
               },
               {
                 "type": "link",
                 "label": "Serverspec Testing Pipeline",
-                "href": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
+                "href": "/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
                 "docId": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline"
               }
-            ]
+            ],
+            "href": "/docs/category/configuring-jenkins-pipeline"
+          },
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/Continous Integration/overview",
+            "docId": "Continous Integration/overview"
+          },
+          {
+            "type": "link",
+            "label": "Installation of Jenkins",
+            "href": "/docs/Continous Integration/Installation of Jenkins",
+            "docId": "Continous Integration/Installation of Jenkins"
           }
         ],
-        "href": "/docs/docs/category/continous-integration"
+        "href": "/docs/category/continous-integration"
       },
       {
         "type": "category",
@@ -86,7 +87,7 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/docs/docs/Infrastructure as a Code/Introduction",
+            "href": "/docs/Infrastructure as a Code/Introduction",
             "docId": "Infrastructure as a Code/Introduction"
           },
           {
@@ -104,25 +105,25 @@
                   {
                     "type": "link",
                     "label": "root",
-                    "href": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
                     "docId": "Infrastructure as a Code/Terraform/TerraformModule/root"
                   },
                   {
                     "type": "link",
                     "label": "Workstation",
-                    "href": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
                     "docId": "Infrastructure as a Code/Terraform/TerraformModule/Workstation"
                   },
                   {
                     "type": "link",
                     "label": "Google kubernetes Engine Cluster",
-                    "href": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
                     "docId": "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
                   },
                   {
                     "type": "link",
                     "label": "Add Developer roles and Access",
-                    "href": "/docs/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
+                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
                     "docId": "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access"
                   }
                 ]
@@ -130,7 +131,7 @@
             ]
           }
         ],
-        "href": "/docs/docs/category/infrastructure-as-a-code"
+        "href": "/docs/category/infrastructure-as-a-code"
       },
       {
         "type": "category",
@@ -141,35 +142,35 @@
           {
             "type": "link",
             "label": "overview",
-            "href": "/docs/docs/Monitoring/overview",
+            "href": "/docs/Monitoring/overview",
             "docId": "Monitoring/overview"
           },
           {
             "type": "link",
             "label": "Exposing Metrics for Developer VMs",
-            "href": "/docs/docs/Monitoring/ExposeMetrics",
+            "href": "/docs/Monitoring/ExposeMetrics",
             "docId": "Monitoring/ExposeMetrics"
           },
           {
             "type": "link",
             "label": "Installation of Prometheus",
-            "href": "/docs/docs/Monitoring/Installation of Prometheus",
+            "href": "/docs/Monitoring/Installation of Prometheus",
             "docId": "Monitoring/Installation of Prometheus"
           },
           {
             "type": "link",
             "label": "Installation of Grafana",
-            "href": "/docs/docs/Monitoring/Installation of Grafana",
+            "href": "/docs/Monitoring/Installation of Grafana",
             "docId": "Monitoring/Installation of Grafana"
           },
           {
             "type": "link",
             "label": "Configuration of Grafana Dashboards",
-            "href": "/docs/docs/Monitoring/Configuration of Grafana Dashboards",
+            "href": "/docs/Monitoring/Configuration of Grafana Dashboards",
             "docId": "Monitoring/Configuration of Grafana Dashboards"
           }
         ],
-        "href": "/docs/docs/category/monitoring"
+        "href": "/docs/category/monitoring"
       },
       {
         "type": "category",
@@ -180,35 +181,35 @@
           {
             "type": "link",
             "label": "introduction",
-            "href": "/docs/docs/Configuration Management/introduction",
+            "href": "/docs/Configuration Management/introduction",
             "docId": "Configuration Management/introduction"
           },
           {
             "type": "link",
             "label": "Installing AWX",
-            "href": "/docs/docs/Configuration Management/Installing AWX",
+            "href": "/docs/Configuration Management/Installing AWX",
             "docId": "Configuration Management/Installing AWX"
           },
           {
             "type": "link",
             "label": "Running Ansible Playbook with Dynamic Inventory",
-            "href": "/docs/docs/Configuration Management/Ansible",
+            "href": "/docs/Configuration Management/Ansible",
             "docId": "Configuration Management/Ansible"
           },
           {
             "type": "link",
             "label": "Configuring AWX",
-            "href": "/docs/docs/Configuration Management/Configuring AWX",
+            "href": "/docs/Configuration Management/Configuring AWX",
             "docId": "Configuration Management/Configuring AWX"
           },
           {
             "type": "link",
             "label": "Serverspec",
-            "href": "/docs/docs/Configuration Management/Serverspec",
+            "href": "/docs/Configuration Management/Serverspec",
             "docId": "Configuration Management/Serverspec"
           }
         ],
-        "href": "/docs/docs/category/configuration-management"
+        "href": "/docs/category/configuration-management"
       },
       {
         "type": "category",
@@ -219,29 +220,29 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/docs/Single Sign-On with Keycloak/Overview",
+            "href": "/docs/Single Sign-On with Keycloak/Overview",
             "docId": "Single Sign-On with Keycloak/Overview"
           },
           {
             "type": "link",
             "label": "Installation & Configuration of Keycloak",
-            "href": "/docs/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
+            "href": "/docs/Single Sign-On with Keycloak/Installation & Configuration of Keycloak",
             "docId": "Single Sign-On with Keycloak/Installation & Configuration of Keycloak"
           },
           {
             "type": "link",
             "label": "How to Integrate Keycloak with AWX",
-            "href": "/docs/docs/Single Sign-On with Keycloak/Integration with AWX",
+            "href": "/docs/Single Sign-On with Keycloak/Integration with AWX",
             "docId": "Single Sign-On with Keycloak/Integration with AWX"
           },
           {
             "type": "link",
             "label": "Integration with Grafana",
-            "href": "/docs/docs/Single Sign-On with Keycloak/Integration with Grafana",
+            "href": "/docs/Single Sign-On with Keycloak/Integration with Grafana",
             "docId": "Single Sign-On with Keycloak/Integration with Grafana"
           }
         ],
-        "href": "/docs/docs/category/single-sign-on-with-keycloak"
+        "href": "/docs/category/single-sign-on-with-keycloak"
       },
       {
         "type": "category",
@@ -252,23 +253,23 @@
           {
             "type": "link",
             "label": "Veeam Use Cases",
-            "href": "/docs/docs/Backup/Introduction",
+            "href": "/docs/Backup/Introduction",
             "docId": "Backup/Introduction"
           },
           {
             "type": "link",
             "label": "Installatation of Veaam",
-            "href": "/docs/docs/Backup/Installatation of Veaam",
+            "href": "/docs/Backup/Installatation of Veaam",
             "docId": "Backup/Installatation of Veaam"
           },
           {
             "type": "link",
             "label": "Configuring Veeam",
-            "href": "/docs/docs/Backup/Configuring Veeam",
+            "href": "/docs/Backup/Configuring Veeam",
             "docId": "Backup/Configuring Veeam"
           }
         ],
-        "href": "/docs/docs/category/backup"
+        "href": "/docs/category/backup"
       },
       {
         "type": "category",
@@ -279,35 +280,35 @@
           {
             "type": "link",
             "label": "CentralizedSecret",
-            "href": "/docs/docs/Secrets/CentralizedSecret",
+            "href": "/docs/Secrets/CentralizedSecret",
             "docId": "Secrets/CentralizedSecret"
           },
           {
             "type": "link",
             "label": "Install Vault",
-            "href": "/docs/docs/Secrets/Install Vault",
+            "href": "/docs/Secrets/Install Vault",
             "docId": "Secrets/Install Vault"
           },
           {
             "type": "link",
             "label": "Configure Vault Cluster",
-            "href": "/docs/docs/Secrets/Configure Vault",
+            "href": "/docs/Secrets/Configure Vault",
             "docId": "Secrets/Configure Vault"
           },
           {
             "type": "link",
             "label": "Integrate Vault with helm",
-            "href": "/docs/docs/Secrets/Integrate Vault with helm",
+            "href": "/docs/Secrets/Integrate Vault with helm",
             "docId": "Secrets/Integrate Vault with helm"
           },
           {
             "type": "link",
             "label": "Integrate Vault with Jenkins",
-            "href": "/docs/docs/Secrets/Integrate Vault with Jenkins",
+            "href": "/docs/Secrets/Integrate Vault with Jenkins",
             "docId": "Secrets/Integrate Vault with Jenkins"
           }
         ],
-        "href": "/docs/docs/category/secrets"
+        "href": "/docs/category/secrets"
       },
       {
         "type": "category",
@@ -318,11 +319,11 @@
           {
             "type": "link",
             "label": "CommingSoon",
-            "href": "/docs/docs/Disaster Recovery/CommingSoon",
+            "href": "/docs/Disaster Recovery/CommingSoon",
             "docId": "Disaster Recovery/CommingSoon"
           }
         ],
-        "href": "/docs/docs/category/disaster-recovery"
+        "href": "/docs/category/disaster-recovery"
       },
       {
         "type": "category",
@@ -333,41 +334,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/docs/tutorial-basics/create-a-page",
+            "href": "/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/docs/tutorial-basics/create-a-document",
+            "href": "/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/docs/tutorial-basics/create-a-blog-post",
+            "href": "/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/docs/tutorial-basics/markdown-features",
+            "href": "/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/docs/tutorial-basics/deploy-your-site",
+            "href": "/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/docs/tutorial-basics/congratulations",
+            "href": "/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/docs/docs/category/tutorial---basics"
+        "href": "/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -378,17 +379,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/docs/tutorial-extras/manage-docs-versions",
+            "href": "/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/docs/tutorial-extras/translate-your-site",
+            "href": "/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/docs/docs/category/tutorial---extras"
+        "href": "/docs/category/tutorial---extras"
       }
     ]
   },

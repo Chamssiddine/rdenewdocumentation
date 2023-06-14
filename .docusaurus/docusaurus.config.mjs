@@ -8,7 +8,7 @@ export default {
   "tagline": "A remote development environment for your team",
   "favicon": "img/logo.png",
   "url": "https://rde.netlify.app",
-  "baseUrl": "/docs/",
+  "baseUrl": "/",
   "organizationName": "Chamssiddine",
   "projectName": "Remote Development Environment",
   "onBrokenLinks": "throw",

@@ -6,7 +6,7 @@
   "source": "@site/docs/Single Sign-On with Keycloak/Integration with Grafana.md",
   "sourceDirName": "Single Sign-On with Keycloak",
   "slug": "/Single Sign-On with Keycloak/Integration with Grafana",
-  "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with Grafana",
+  "permalink": "/docs/Single Sign-On with Keycloak/Integration with Grafana",
   "draft": false,
   "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Single Sign-On with Keycloak/Integration with Grafana.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to Integrate Keycloak with AWX",
-    "permalink": "/docs/docs/Single Sign-On with Keycloak/Integration with AWX"
+    "permalink": "/docs/Single Sign-On with Keycloak/Integration with AWX"
   },
   "next": {
     "title": "Backup",
-    "permalink": "/docs/docs/category/backup"
+    "permalink": "/docs/category/backup"
   }
 }
