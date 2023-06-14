@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "AWX Pipeline",
+    "title": "AWX Trigger Pipeline",
     "permalink": "/docs/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
   },
   "next": {
