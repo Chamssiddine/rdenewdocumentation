@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 ### 1. Navigate to the Keycloak Helm Chart directory in your Git repo:
+
 ```bash
 cd helm_charts/keycloak_chart
 ```

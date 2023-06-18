@@ -21,7 +21,7 @@
     "permalink": "/docs/category/infrastructure-as-a-code"
   },
   "next": {
-    "title": "root",
-    "permalink": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root"
+    "title": "Infrastructure as a Code",
+    "permalink": "/docs/category/infrastructure-as-a-code-1"
   }
 }

@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/docs/Continous Integration/overview"
+    "permalink": "/docs/Continous Integration/Overview"
   },
   "next": {
-    "title": "Infrastructure as a Code",
-    "permalink": "/docs/category/infrastructure-as-a-code"
+    "title": "Jenkins Pipelines",
+    "permalink": "/docs/category/jenkins-pipelines"
   }
 }

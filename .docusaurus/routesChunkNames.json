@@ -186,20 +186,24 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a22": {
+  "/docs-551": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-6-a-1-46d"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/Backup/Configuring Veeam-e28": {
+  "/docs/Backup/Backup Developer workstation with Veeam-664": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-configuring-veeam-972-d4c"
+    "content": "content---docs-backup-backup-developer-workstation-with-veeam-9-ce-c8c"
   },
-  "/docs/Backup/Installatation of Veaam-a07": {
+  "/docs/Backup/Backup kubernetes namespace with Kasten10 by Veeam-431": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-installatation-of-veaam-12-c-150"
+    "content": "content---docs-backup-backup-kubernetes-namespace-with-kasten-10-by-veeam-163-9a2"
+  },
+  "/docs/Backup/Installatation of Kasten10 by Veaam-04f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-backup-installatation-of-kasten-10-by-veaam-4-de-ef6"
   },
   "/docs/Backup/Introduction-f0f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -212,10 +216,6 @@
   "/docs/category/configuration-management-b53": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-configuration-management-293-726"
-  },
-  "/docs/category/configuring-jenkins-pipeline-a9e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-configuring-jenkins-pipeline-48-c-32a"
   },
   "/docs/category/continous-integration-620": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -232,6 +232,14 @@
   "/docs/category/infrastructure-as-a-code-400": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-infrastructure-as-a-code-7-fd-386"
+  },
+  "/docs/category/infrastructure-as-a-code-1-783": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-infrastructure-as-a-code-1-ff-8-c6a"
+  },
+  "/docs/category/jenkins-pipelines-928": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-jenkins-pipelines-734-d2b"
   },
   "/docs/category/monitoring-f80": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -265,33 +273,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-configuration-management-installing-aw-xc-8-a-9ae"
   },
-  "/docs/Configuration Management/introduction-b7b": {
+  "/docs/Configuration Management/Introduction-22b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-configuration-management-introductiond-6-b-268"
+    "content": "content---docs-configuration-management-introduction-096-663"
   },
   "/docs/Configuration Management/Serverspec-43e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-configuration-management-serverspec-971-aa9"
   },
-  "/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline-70e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-continous-integration-configuring-jenkins-pipeline-awx-pipelinee-8-e-6d8"
-  },
-  "/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline-3bf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-continous-integration-configuring-jenkins-pipeline-infrastructure-pipeline-424-56d"
-  },
-  "/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline-7dc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-continous-integration-configuring-jenkins-pipeline-serverspec-pipeline-1-de-391"
-  },
   "/docs/Continous Integration/Installation of Jenkins-0bf": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-continous-integration-installation-of-jenkins-22-c-c16"
   },
-  "/docs/Continous Integration/overview-6f3": {
+  "/docs/Continous Integration/Jenkins Pipelines/AWX Pipeline-a91": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-continous-integration-overview-883-3d0"
+    "content": "content---docs-continous-integration-jenkins-pipelines-awx-pipeline-38-e-90c"
+  },
+  "/docs/Continous Integration/Jenkins Pipelines/Infrastructure Pipeline-c45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-continous-integration-jenkins-pipelines-infrastructure-pipelineb-85-445"
+  },
+  "/docs/Continous Integration/Jenkins Pipelines/Serverspec Pipeline-5ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-continous-integration-jenkins-pipelines-serverspec-pipeline-93-f-37c"
+  },
+  "/docs/Continous Integration/Overview-d72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-continous-integration-overview-319-8c5"
+  },
+  "/docs/Developer Access/Access AWX-0c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developer-access-access-awx-3-e-9-793"
+  },
+  "/docs/Developer Access/Access GCP instance-c0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developer-access-access-gcp-instance-071-750"
   },
   "/docs/Disaster Recovery/CommingSoon-17d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -305,21 +321,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-infrastructure-as-a-code-introductionc-39-08b"
   },
-  "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access-499": {
+  "/docs/Infrastructure as a Code/Terraform Modules/Add Developer roles and Access-42e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-infrastructure-as-a-code-terraform-terraform-module-add-developer-roles-and-access-921-33e"
+    "content": "content---docs-infrastructure-as-a-code-terraform-modules-add-developer-roles-and-accessae-3-4b2"
   },
-  "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster-572": {
+  "/docs/Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster-9e1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-infrastructure-as-a-code-terraform-terraform-module-google-kubernetes-engine-cluster-26-b-a82"
+    "content": "content---docs-infrastructure-as-a-code-terraform-modules-google-kubernetes-engine-cluster-0-d-5-e55"
   },
-  "/docs/Infrastructure as a Code/Terraform/TerraformModule/root-889": {
+  "/docs/Infrastructure as a Code/Terraform Modules/Root Module-5a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-infrastructure-as-a-code-terraform-terraform-module-rootbe-5-0e3"
+    "content": "content---docs-infrastructure-as-a-code-terraform-modules-root-module-525-601"
   },
-  "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation-e06": {
+  "/docs/Infrastructure as a Code/Terraform Modules/Workstation-e03": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-infrastructure-as-a-code-terraform-terraform-module-workstation-96-f-273"
+    "content": "content---docs-infrastructure-as-a-code-terraform-modules-workstation-0-d-9-aca"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -341,9 +357,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-monitoring-installation-of-prometheus-1-f-7-49a"
   },
-  "/docs/Monitoring/overview-a93": {
+  "/docs/Monitoring/Overview-86b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-monitoring-overview-471-cd2"
+    "content": "content---docs-monitoring-overview-91-d-508"
   },
   "/docs/Secrets/CentralizedSecret-bbd": {
     "__comp": "__comp---theme-doc-item-178-a40",

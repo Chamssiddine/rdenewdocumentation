@@ -37,43 +37,43 @@
         "collapsed": true,
         "items": [
           {
-            "type": "category",
-            "label": "Configuring Jenkins Pipeline",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Infrastructure Creation Pipeline",
-                "href": "/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
-                "docId": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
-              },
-              {
-                "type": "link",
-                "label": "AWX Trigger Pipeline",
-                "href": "/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
-                "docId": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
-              },
-              {
-                "type": "link",
-                "label": "Serverspec Testing Pipeline",
-                "href": "/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
-                "docId": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline"
-              }
-            ],
-            "href": "/docs/category/configuring-jenkins-pipeline"
-          },
-          {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/Continous Integration/overview",
-            "docId": "Continous Integration/overview"
+            "href": "/docs/Continous Integration/Overview",
+            "docId": "Continous Integration/Overview"
           },
           {
             "type": "link",
             "label": "Installation of Jenkins",
             "href": "/docs/Continous Integration/Installation of Jenkins",
             "docId": "Continous Integration/Installation of Jenkins"
+          },
+          {
+            "type": "category",
+            "label": "Jenkins Pipelines",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Infrastructure Creation Pipeline",
+                "href": "/docs/Continous Integration/Jenkins Pipelines/Infrastructure Pipeline",
+                "docId": "Continous Integration/Jenkins Pipelines/Infrastructure Pipeline"
+              },
+              {
+                "type": "link",
+                "label": "AWX Trigger Pipeline",
+                "href": "/docs/Continous Integration/Jenkins Pipelines/AWX Pipeline",
+                "docId": "Continous Integration/Jenkins Pipelines/AWX Pipeline"
+              },
+              {
+                "type": "link",
+                "label": "Serverspec Testing Pipeline",
+                "href": "/docs/Continous Integration/Jenkins Pipelines/Serverspec Pipeline",
+                "docId": "Continous Integration/Jenkins Pipelines/Serverspec Pipeline"
+              }
+            ],
+            "href": "/docs/category/jenkins-pipelines"
           }
         ],
         "href": "/docs/category/continous-integration"
@@ -92,43 +92,36 @@
           },
           {
             "type": "category",
-            "label": "Terraform",
+            "label": "Infrastructure as a Code",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
-                "type": "category",
-                "label": "TerraformModule",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "root",
-                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
-                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/root"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Workstation",
-                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
-                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/Workstation"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Google kubernetes Engine Cluster",
-                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
-                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Add Developer roles and Access",
-                    "href": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
-                    "docId": "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access"
-                  }
-                ]
+                "type": "link",
+                "label": "Root Module",
+                "href": "/docs/Infrastructure as a Code/Terraform Modules/Root Module",
+                "docId": "Infrastructure as a Code/Terraform Modules/Root Module"
+              },
+              {
+                "type": "link",
+                "label": "Workstation",
+                "href": "/docs/Infrastructure as a Code/Terraform Modules/Workstation",
+                "docId": "Infrastructure as a Code/Terraform Modules/Workstation"
+              },
+              {
+                "type": "link",
+                "label": "Google kubernetes Engine Cluster",
+                "href": "/docs/Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster",
+                "docId": "Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster"
+              },
+              {
+                "type": "link",
+                "label": "Add Developer roles and Access",
+                "href": "/docs/Infrastructure as a Code/Terraform Modules/Add Developer roles and Access",
+                "docId": "Infrastructure as a Code/Terraform Modules/Add Developer roles and Access"
               }
-            ]
+            ],
+            "href": "/docs/category/infrastructure-as-a-code-1"
           }
         ],
         "href": "/docs/category/infrastructure-as-a-code"
@@ -141,9 +134,9 @@
         "items": [
           {
             "type": "link",
-            "label": "overview",
-            "href": "/docs/Monitoring/overview",
-            "docId": "Monitoring/overview"
+            "label": "Overview",
+            "href": "/docs/Monitoring/Overview",
+            "docId": "Monitoring/Overview"
           },
           {
             "type": "link",
@@ -180,9 +173,9 @@
         "items": [
           {
             "type": "link",
-            "label": "introduction",
-            "href": "/docs/Configuration Management/introduction",
-            "docId": "Configuration Management/introduction"
+            "label": "Configuration Management",
+            "href": "/docs/Configuration Management/Introduction",
+            "docId": "Configuration Management/Introduction"
           },
           {
             "type": "link",
@@ -258,15 +251,21 @@
           },
           {
             "type": "link",
-            "label": "Installatation of Veaam",
-            "href": "/docs/Backup/Installatation of Veaam",
-            "docId": "Backup/Installatation of Veaam"
+            "label": "Installatation of Kasten10 by Veaam",
+            "href": "/docs/Backup/Installatation of Kasten10 by Veaam",
+            "docId": "Backup/Installatation of Kasten10 by Veaam"
           },
           {
             "type": "link",
-            "label": "Configuring Veeam",
-            "href": "/docs/Backup/Configuring Veeam",
-            "docId": "Backup/Configuring Veeam"
+            "label": "Backup kubernetes namespace with Kasten10 by Veeam",
+            "href": "/docs/Backup/Backup kubernetes namespace with Kasten10 by Veeam",
+            "docId": "Backup/Backup kubernetes namespace with Kasten10 by Veeam"
+          },
+          {
+            "type": "link",
+            "label": "Documentation: Configuring Backup Policies with GCP Veeam Service",
+            "href": "/docs/Backup/Backup Developer workstation with Veeam",
+            "docId": "Backup/Backup Developer workstation with Veeam"
           }
         ],
         "href": "/docs/category/backup"
@@ -390,19 +389,45 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "category",
+        "label": "Developer Access",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Access GCP instance",
+            "href": "/docs/Developer Access/Access GCP instance",
+            "docId": "Developer Access/Access GCP instance"
+          },
+          {
+            "type": "link",
+            "label": "Access AWX",
+            "href": "/docs/Developer Access/Access AWX",
+            "docId": "Developer Access/Access AWX"
+          }
+        ]
       }
     ]
   },
   "docs": {
-    "Backup/Configuring Veeam": {
-      "id": "Backup/Configuring Veeam",
-      "title": "Configuring Veeam",
-      "description": "",
+    "Backup/Backup Developer workstation with Veeam": {
+      "id": "Backup/Backup Developer workstation with Veeam",
+      "title": "Documentation: Configuring Backup Policies with GCP Veeam Service",
+      "description": "Overview",
       "sidebar": "tutorialSidebar"
     },
-    "Backup/Installatation of Veaam": {
-      "id": "Backup/Installatation of Veaam",
-      "title": "Installatation of Veaam",
+    "Backup/Backup kubernetes namespace with Kasten10 by Veeam": {
+      "id": "Backup/Backup kubernetes namespace with Kasten10 by Veeam",
+      "title": "Backup kubernetes namespace with Kasten10 by Veeam",
+      "description": "This documentation provides a step-by-step guide on how to configure backup policies using the GCP Veeam service. By following these instructions, you can effectively manage and store backups for your namespaces in Google Cloud Platform (GCP). Video tutorials are included to demonstrate the configuration process.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Backup/Installatation of Kasten10 by Veaam": {
+      "id": "Backup/Installatation of Kasten10 by Veaam",
+      "title": "Installatation of Kasten10 by Veaam",
       "description": "Step 1: Create a K10 Service Account",
       "sidebar": "tutorialSidebar"
     },
@@ -430,10 +455,10 @@
       "description": "How to install AWX using kubernetes operator",
       "sidebar": "tutorialSidebar"
     },
-    "Configuration Management/introduction": {
-      "id": "Configuration Management/introduction",
-      "title": "introduction",
-      "description": "",
+    "Configuration Management/Introduction": {
+      "id": "Configuration Management/Introduction",
+      "title": "Configuration Management",
+      "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
     "Configuration Management/Serverspec": {
@@ -442,34 +467,46 @@
       "description": "Why Use ServerSpec with Ansible",
       "sidebar": "tutorialSidebar"
     },
-    "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline": {
-      "id": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
-      "title": "AWX Trigger Pipeline",
-      "description": "The AWX Trigger pipeline is responsible for triggering Ansible Tower jobs in AWX. It allows you to automate the execution of specific job templates from within your Jenkins pipeline.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline": {
-      "id": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
-      "title": "Infrastructure Creation Pipeline",
-      "description": "Overview",
-      "sidebar": "tutorialSidebar"
-    },
-    "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline": {
-      "id": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
-      "title": "Serverspec Testing Pipeline",
-      "description": "The Serverspec Testing pipeline is responsible for executing Serverspec tests on multiple instances in parallel. It automates the process of installing Serverspec on developers' instances, copying the test files, and running the tests.",
-      "sidebar": "tutorialSidebar"
-    },
     "Continous Integration/Installation of Jenkins": {
       "id": "Continous Integration/Installation of Jenkins",
       "title": "Installation of Jenkins",
       "description": "The following steps outline the process of installing and configuring Jenkins for continuous integration.",
       "sidebar": "tutorialSidebar"
     },
-    "Continous Integration/overview": {
-      "id": "Continous Integration/overview",
+    "Continous Integration/Jenkins Pipelines/AWX Pipeline": {
+      "id": "Continous Integration/Jenkins Pipelines/AWX Pipeline",
+      "title": "AWX Trigger Pipeline",
+      "description": "The AWX Trigger pipeline is responsible for triggering Ansible Tower jobs in AWX. It allows you to automate the execution of specific job templates from within your Jenkins pipeline.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Continous Integration/Jenkins Pipelines/Infrastructure Pipeline": {
+      "id": "Continous Integration/Jenkins Pipelines/Infrastructure Pipeline",
+      "title": "Infrastructure Creation Pipeline",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "Continous Integration/Jenkins Pipelines/Serverspec Pipeline": {
+      "id": "Continous Integration/Jenkins Pipelines/Serverspec Pipeline",
+      "title": "Serverspec Testing Pipeline",
+      "description": "The Serverspec Testing pipeline is responsible for executing Serverspec tests on multiple instances in parallel. It automates the process of installing Serverspec on developers' instances, copying the test files, and running the tests.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Continous Integration/Overview": {
+      "id": "Continous Integration/Overview",
       "title": "Overview",
       "description": "This comprehensive guide will provide you with all the information you need to effectively set up and manage your remote development environment.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Developer Access/Access AWX": {
+      "id": "Developer Access/Access AWX",
+      "title": "Access AWX",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Developer Access/Access GCP instance": {
+      "id": "Developer Access/Access GCP instance",
+      "title": "Access GCP instance",
+      "description": "Step 1 install ssh plugin in VSCODE",
       "sidebar": "tutorialSidebar"
     },
     "Disaster Recovery/CommingSoon": {
@@ -490,26 +527,26 @@
       "description": "Infrastructure as Code and Terraform",
       "sidebar": "tutorialSidebar"
     },
-    "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access": {
-      "id": "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
+    "Infrastructure as a Code/Terraform Modules/Add Developer roles and Access": {
+      "id": "Infrastructure as a Code/Terraform Modules/Add Developer roles and Access",
       "title": "Add Developer roles and Access",
       "description": "To add a new developer and role binding, as well as a new role, navigate to infrastructure/modules/IamRbac follow these steps:",
       "sidebar": "tutorialSidebar"
     },
-    "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster": {
-      "id": "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
+    "Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster": {
+      "id": "Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster",
       "title": "Google kubernetes Engine Cluster",
       "description": "Module Purpose",
       "sidebar": "tutorialSidebar"
     },
-    "Infrastructure as a Code/Terraform/TerraformModule/root": {
-      "id": "Infrastructure as a Code/Terraform/TerraformModule/root",
-      "title": "root",
-      "description": "",
+    "Infrastructure as a Code/Terraform Modules/Root Module": {
+      "id": "Infrastructure as a Code/Terraform Modules/Root Module",
+      "title": "Root Module",
+      "description": "The root module is responsible for calling the workstation and kubernetes modules to provision the necessary infrastructure.",
       "sidebar": "tutorialSidebar"
     },
-    "Infrastructure as a Code/Terraform/TerraformModule/Workstation": {
-      "id": "Infrastructure as a Code/Terraform/TerraformModule/Workstation",
+    "Infrastructure as a Code/Terraform Modules/Workstation": {
+      "id": "Infrastructure as a Code/Terraform Modules/Workstation",
       "title": "Workstation",
       "description": "Module Purpose",
       "sidebar": "tutorialSidebar"
@@ -544,16 +581,16 @@
       "description": "1. Navigate to the Prometheus chart directory:",
       "sidebar": "tutorialSidebar"
     },
-    "Monitoring/overview": {
-      "id": "Monitoring/overview",
-      "title": "overview",
+    "Monitoring/Overview": {
+      "id": "Monitoring/Overview",
+      "title": "Overview",
       "description": "Monitoring with Prometheus and Grafana",
       "sidebar": "tutorialSidebar"
     },
     "Secrets/CentralizedSecret": {
       "id": "Secrets/CentralizedSecret",
       "title": "CentralizedSecret",
-      "description": "Vault is very important",
+      "description": "Importance of Centralized Credentials Management with Vault by HashiCorp",
       "sidebar": "tutorialSidebar"
     },
     "Secrets/Configure Vault": {
@@ -595,7 +632,7 @@
     "Single Sign-On with Keycloak/Integration with Grafana": {
       "id": "Single Sign-On with Keycloak/Integration with Grafana",
       "title": "Integration with Grafana",
-      "description": "---",
+      "description": "Integrate Keycloak with Grafana",
       "sidebar": "tutorialSidebar"
     },
     "Single Sign-On with Keycloak/Overview": {

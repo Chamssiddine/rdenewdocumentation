@@ -1,8 +1,8 @@
 {
-  "title": "Configuring Jenkins Pipeline",
+  "title": "Jenkins Pipelines",
   "description": "Enjoy!",
-  "slug": "/category/configuring-jenkins-pipeline",
-  "permalink": "/docs/category/configuring-jenkins-pipeline",
+  "slug": "/category/jenkins-pipelines",
+  "permalink": "/docs/category/jenkins-pipelines",
   "navigation": {
     "previous": {
       "title": "Installation of Jenkins",
@@ -10,7 +10,7 @@
     },
     "next": {
       "title": "Infrastructure Creation Pipeline",
-      "permalink": "/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline"
+      "permalink": "/docs/Continous Integration/Jenkins Pipelines/Infrastructure Pipeline"
     }
   }
 }

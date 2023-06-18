@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "introduction",
-    "permalink": "/docs/Configuration Management/introduction"
+    "title": "Configuration Management",
+    "permalink": "/docs/Configuration Management/Introduction"
   },
   "next": {
     "title": "Running Ansible Playbook with Dynamic Inventory",

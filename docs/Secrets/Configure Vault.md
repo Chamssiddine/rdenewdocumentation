@@ -28,7 +28,7 @@ VAULT_UNSEAL_KEY=$(cat cluster-keys.json | jq -r ".unseal_keys_b64[]")
 4. Unseal Vault running on the `vault-0` pod:
 
 ```shell
-kubectl exec vault-0 -- vault operator unseal $VAULT_UNSEAL_KEY
+kubectl exec -n secrets vault-0 -- vault operator unseal $VAULT_UNSEAL_KEY
 ```
 
 ### Step 2: Join the other Vaults to the Vault cluster

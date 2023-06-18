@@ -99,17 +99,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a22'),
+    component: ComponentCreator('/docs', '551'),
     routes: [
       {
-        path: '/docs/Backup/Configuring Veeam',
-        component: ComponentCreator('/docs/Backup/Configuring Veeam', 'e28'),
+        path: '/docs/Backup/Backup Developer workstation with Veeam',
+        component: ComponentCreator('/docs/Backup/Backup Developer workstation with Veeam', '664'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Backup/Installatation of Veaam',
-        component: ComponentCreator('/docs/Backup/Installatation of Veaam', 'a07'),
+        path: '/docs/Backup/Backup kubernetes namespace with Kasten10 by Veeam',
+        component: ComponentCreator('/docs/Backup/Backup kubernetes namespace with Kasten10 by Veeam', '431'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Backup/Installatation of Kasten10 by Veaam',
+        component: ComponentCreator('/docs/Backup/Installatation of Kasten10 by Veaam', '04f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -128,12 +134,6 @@ export default [
       {
         path: '/docs/category/configuration-management',
         component: ComponentCreator('/docs/category/configuration-management', 'b53'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/configuring-jenkins-pipeline',
-        component: ComponentCreator('/docs/category/configuring-jenkins-pipeline', 'a9e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -158,6 +158,18 @@ export default [
       {
         path: '/docs/category/infrastructure-as-a-code',
         component: ComponentCreator('/docs/category/infrastructure-as-a-code', '400'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/infrastructure-as-a-code-1',
+        component: ComponentCreator('/docs/category/infrastructure-as-a-code-1', '783'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/jenkins-pipelines',
+        component: ComponentCreator('/docs/category/jenkins-pipelines', '928'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -210,8 +222,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Configuration Management/introduction',
-        component: ComponentCreator('/docs/Configuration Management/introduction', 'b7b'),
+        path: '/docs/Configuration Management/Introduction',
+        component: ComponentCreator('/docs/Configuration Management/Introduction', '22b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -222,32 +234,44 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline',
-        component: ComponentCreator('/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline', '70e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline',
-        component: ComponentCreator('/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline', '3bf'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline',
-        component: ComponentCreator('/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline', '7dc'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/Continous Integration/Installation of Jenkins',
         component: ComponentCreator('/docs/Continous Integration/Installation of Jenkins', '0bf'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Continous Integration/overview',
-        component: ComponentCreator('/docs/Continous Integration/overview', '6f3'),
+        path: '/docs/Continous Integration/Jenkins Pipelines/AWX Pipeline',
+        component: ComponentCreator('/docs/Continous Integration/Jenkins Pipelines/AWX Pipeline', 'a91'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Continous Integration/Jenkins Pipelines/Infrastructure Pipeline',
+        component: ComponentCreator('/docs/Continous Integration/Jenkins Pipelines/Infrastructure Pipeline', 'c45'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Continous Integration/Jenkins Pipelines/Serverspec Pipeline',
+        component: ComponentCreator('/docs/Continous Integration/Jenkins Pipelines/Serverspec Pipeline', '5ce'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Continous Integration/Overview',
+        component: ComponentCreator('/docs/Continous Integration/Overview', 'd72'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Developer Access/Access AWX',
+        component: ComponentCreator('/docs/Developer Access/Access AWX', '0c3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Developer Access/Access GCP instance',
+        component: ComponentCreator('/docs/Developer Access/Access GCP instance', 'c0c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -270,26 +294,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access',
-        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access', '499'),
+        path: '/docs/Infrastructure as a Code/Terraform Modules/Add Developer roles and Access',
+        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform Modules/Add Developer roles and Access', '42e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster',
-        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster', '572'),
+        path: '/docs/Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster',
+        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster', '9e1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Infrastructure as a Code/Terraform/TerraformModule/root',
-        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform/TerraformModule/root', '889'),
+        path: '/docs/Infrastructure as a Code/Terraform Modules/Root Module',
+        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform Modules/Root Module', '5a2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation',
-        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation', 'e06'),
+        path: '/docs/Infrastructure as a Code/Terraform Modules/Workstation',
+        component: ComponentCreator('/docs/Infrastructure as a Code/Terraform Modules/Workstation', 'e03'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -324,8 +348,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Monitoring/overview',
-        component: ComponentCreator('/docs/Monitoring/overview', 'a93'),
+        path: '/docs/Monitoring/Overview',
+        component: ComponentCreator('/docs/Monitoring/Overview', '86b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

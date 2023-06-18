@@ -7,7 +7,7 @@ sidebar_position: 2
 
 The recommended way to run Vault on Kubernetes is via the [Helm chart](https://developer.hashicorp.com/vault/docs/platform/k8s/helm).
 
-Go to the helm values folder in /helm_charts/vault_chart
+Go to the helm values folder in `/helm_charts/vault_chart`
 
 Add the HashiCorp Helm repository.
 

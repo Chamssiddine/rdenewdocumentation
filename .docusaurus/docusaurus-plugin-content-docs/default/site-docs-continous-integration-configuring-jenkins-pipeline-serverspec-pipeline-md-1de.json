@@ -21,7 +21,7 @@
     "permalink": "/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline"
   },
   "next": {
-    "title": "Overview",
-    "permalink": "/docs/Continous Integration/overview"
+    "title": "Infrastructure as a Code",
+    "permalink": "/docs/category/infrastructure-as-a-code"
   }
 }

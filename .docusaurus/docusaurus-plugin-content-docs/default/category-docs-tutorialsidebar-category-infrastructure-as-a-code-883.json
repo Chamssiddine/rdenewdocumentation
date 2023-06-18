@@ -5,8 +5,8 @@
   "permalink": "/docs/category/infrastructure-as-a-code",
   "navigation": {
     "previous": {
-      "title": "Installation of Jenkins",
-      "permalink": "/docs/Continous Integration/Installation of Jenkins"
+      "title": "Serverspec Testing Pipeline",
+      "permalink": "/docs/Continous Integration/Jenkins Pipelines/Serverspec Pipeline"
     },
     "next": {
       "title": "Introduction",

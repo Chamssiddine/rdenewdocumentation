@@ -11,13 +11,18 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Backup/Configuring Veeam",
-              "path": "/docs/Backup/Configuring Veeam",
+              "id": "Backup/Backup Developer workstation with Veeam",
+              "path": "/docs/Backup/Backup Developer workstation with Veeam",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Backup/Installatation of Veaam",
-              "path": "/docs/Backup/Installatation of Veaam",
+              "id": "Backup/Backup kubernetes namespace with Kasten10 by Veeam",
+              "path": "/docs/Backup/Backup kubernetes namespace with Kasten10 by Veeam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backup/Installatation of Kasten10 by Veaam",
+              "path": "/docs/Backup/Installatation of Kasten10 by Veaam",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,8 +46,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Configuration Management/introduction",
-              "path": "/docs/Configuration Management/introduction",
+              "id": "Configuration Management/Introduction",
+              "path": "/docs/Configuration Management/Introduction",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,28 +56,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
-              "path": "/docs/Continous Integration/Configuring Jenkins Pipeline/AWX Pipeline",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
-              "path": "/docs/Continous Integration/Configuring Jenkins Pipeline/Infrastructure Pipeline",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
-              "path": "/docs/Continous Integration/Configuring Jenkins Pipeline/Serverspec Pipeline",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Continous Integration/Installation of Jenkins",
               "path": "/docs/Continous Integration/Installation of Jenkins",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Continous Integration/overview",
-              "path": "/docs/Continous Integration/overview",
+              "id": "Continous Integration/Jenkins Pipelines/AWX Pipeline",
+              "path": "/docs/Continous Integration/Jenkins Pipelines/AWX Pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Continous Integration/Jenkins Pipelines/Infrastructure Pipeline",
+              "path": "/docs/Continous Integration/Jenkins Pipelines/Infrastructure Pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Continous Integration/Jenkins Pipelines/Serverspec Pipeline",
+              "path": "/docs/Continous Integration/Jenkins Pipelines/Serverspec Pipeline",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Continous Integration/Overview",
+              "path": "/docs/Continous Integration/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Access/Access AWX",
+              "path": "/docs/Developer Access/Access AWX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Access/Access GCP instance",
+              "path": "/docs/Developer Access/Access GCP instance",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -91,23 +106,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
-              "path": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Add Developer roles and Access",
+              "id": "Infrastructure as a Code/Terraform Modules/Add Developer roles and Access",
+              "path": "/docs/Infrastructure as a Code/Terraform Modules/Add Developer roles and Access",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
-              "path": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Google kubernetes Engine Cluster",
+              "id": "Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster",
+              "path": "/docs/Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Infrastructure as a Code/Terraform/TerraformModule/root",
-              "path": "/docs/Infrastructure as a Code/Terraform/TerraformModule/root",
+              "id": "Infrastructure as a Code/Terraform Modules/Root Module",
+              "path": "/docs/Infrastructure as a Code/Terraform Modules/Root Module",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Infrastructure as a Code/Terraform/TerraformModule/Workstation",
-              "path": "/docs/Infrastructure as a Code/Terraform/TerraformModule/Workstation",
+              "id": "Infrastructure as a Code/Terraform Modules/Workstation",
+              "path": "/docs/Infrastructure as a Code/Terraform Modules/Workstation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -136,8 +151,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Monitoring/overview",
-              "path": "/docs/Monitoring/overview",
+              "id": "Monitoring/Overview",
+              "path": "/docs/Monitoring/Overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -236,13 +251,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/configuring-jenkins-pipeline",
-              "path": "/docs/category/configuring-jenkins-pipeline",
+              "id": "/category/jenkins-pipelines",
+              "path": "/docs/category/jenkins-pipelines",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/infrastructure-as-a-code",
               "path": "/docs/category/infrastructure-as-a-code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/infrastructure-as-a-code-1",
+              "path": "/docs/category/infrastructure-as-a-code-1",
               "sidebar": "tutorialSidebar"
             },
             {
