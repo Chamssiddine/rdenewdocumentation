@@ -15,8 +15,6 @@ Before proceeding with the backup policy configuration, ensure the following pre
 - IAM service account with appropriate privileges for accessing and managing backups.
 - Familiarity with the GCP console and Veeam backup concepts.
 
-For a visual demonstration of the backup policy configuration, refer to the tutorial video [here](link_to_video).
-
 ## Step-by-Step Guide
 
 ### Step 1: Creating a Veeam Server
