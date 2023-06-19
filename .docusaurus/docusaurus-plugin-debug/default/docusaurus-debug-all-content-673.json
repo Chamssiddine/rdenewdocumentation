@@ -418,6 +418,10 @@
               "previous": {
                 "title": "Access GCP instance",
                 "permalink": "/docs/Developer Access/Access GCP instance"
+              },
+              "next": {
+                "title": "This is my video script",
+                "permalink": "/docs/script/"
               }
             },
             {
@@ -792,6 +796,26 @@
               "next": {
                 "title": "Exposing Metrics for Developer VMs",
                 "permalink": "/docs/Monitoring/ExposeMetrics"
+              }
+            },
+            {
+              "unversionedId": "script/script",
+              "id": "script/script",
+              "title": "This is my video script",
+              "description": "end result",
+              "source": "@site/docs/script/script.md",
+              "sourceDirName": "script",
+              "slug": "/script/",
+              "permalink": "/docs/script/",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/script/script.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Access AWX",
+                "permalink": "/docs/Developer Access/Access AWX"
               }
             },
             {
@@ -1629,6 +1653,11 @@
                     "id": "Developer Access/Access AWX"
                   }
                 ]
+              },
+              {
+                "type": "doc",
+                "label": "This is my video script",
+                "id": "script/script"
               }
             ]
           }
@@ -2000,6 +2029,7 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

@@ -1,4 +1,12 @@
 {
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1687204616788.json",
+        "lunrIndex": "lunr-index-1687204616788.json"
+      }
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -153,6 +161,11 @@
             {
               "id": "Monitoring/Overview",
               "path": "/docs/Monitoring/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "script/script",
+              "path": "/docs/script/",
               "sidebar": "tutorialSidebar"
             },
             {

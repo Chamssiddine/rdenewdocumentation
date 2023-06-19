@@ -409,6 +409,12 @@
             "docId": "Developer Access/Access AWX"
           }
         ]
+      },
+      {
+        "type": "link",
+        "label": "This is my video script",
+        "href": "/docs/script/",
+        "docId": "script/script"
       }
     ]
   },
@@ -585,6 +591,12 @@
       "id": "Monitoring/Overview",
       "title": "Overview",
       "description": "Monitoring with Prometheus and Grafana",
+      "sidebar": "tutorialSidebar"
+    },
+    "script/script": {
+      "id": "script/script",
+      "title": "This is my video script",
+      "description": "end result",
       "sidebar": "tutorialSidebar"
     },
     "Secrets/CentralizedSecret": {

@@ -8,7 +8,7 @@ To install AWX using Kubernetes Operator, follow these steps:
 ### 1. Navigate to the awx-operator directory:
 
 ```bash
-cd helm_charts/awx_chart/awx-operator
+cd helm_charts/awx_chart
 ```
 
 ### 2. Verify the content of the following files:
