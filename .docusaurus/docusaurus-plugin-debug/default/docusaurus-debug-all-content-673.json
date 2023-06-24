@@ -474,8 +474,8 @@
                 "permalink": "/docs/category/disaster-recovery"
               },
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Multi-Tenancy",
+                "permalink": "/docs/category/multi-tenancy"
               }
             },
             {
@@ -796,6 +796,60 @@
               "next": {
                 "title": "Exposing Metrics for Developer VMs",
                 "permalink": "/docs/Monitoring/ExposeMetrics"
+              }
+            },
+            {
+              "unversionedId": "Multi-Tenancy/Configure & Install Capsule",
+              "id": "Multi-Tenancy/Configure & Install Capsule",
+              "title": "Configure & Install Capsule",
+              "description": "Due to the limitation of my gcp university account it's not possible to enable rbac security groups",
+              "source": "@site/docs/Multi-Tenancy/Configure & Install Capsule.md",
+              "sourceDirName": "Multi-Tenancy",
+              "slug": "/Multi-Tenancy/Configure & Install Capsule",
+              "permalink": "/docs/Multi-Tenancy/Configure & Install Capsule",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Multi-Tenancy/Configure & Install Capsule.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview of Capsule",
+                "permalink": "/docs/Multi-Tenancy/Overview"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "Multi-Tenancy/Overview",
+              "id": "Multi-Tenancy/Overview",
+              "title": "Overview of Capsule",
+              "description": "",
+              "source": "@site/docs/Multi-Tenancy/Overview.md",
+              "sourceDirName": "Multi-Tenancy",
+              "slug": "/Multi-Tenancy/Overview",
+              "permalink": "/docs/Multi-Tenancy/Overview",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Multi-Tenancy/Overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multi-Tenancy",
+                "permalink": "/docs/category/multi-tenancy"
+              },
+              "next": {
+                "title": "Configure & Install Capsule",
+                "permalink": "/docs/Multi-Tenancy/Configure & Install Capsule"
               }
             },
             {
@@ -1577,6 +1631,28 @@
                   "description": "Enjoy!",
                   "slug": "/category/disaster-recovery",
                   "permalink": "/docs/category/disaster-recovery"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Multi-Tenancy",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Multi-Tenancy/Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Multi-Tenancy/Configure & Install Capsule"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/multi-tenancy",
+                  "permalink": "/docs/category/multi-tenancy"
                 }
               },
               {

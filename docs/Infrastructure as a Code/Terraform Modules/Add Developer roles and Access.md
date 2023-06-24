@@ -1,6 +1,10 @@
 ---
 sidebar_position: 4
 ---
+
+:::Danger Important
+You need to Activate Google Rbac Security Groups else this is not going to work
+:::
 To add a new developer and role binding, as well as a new role, navigate to `infrastructure/modules/IamRbac` follow these steps:
 
 1. Add a new developer:

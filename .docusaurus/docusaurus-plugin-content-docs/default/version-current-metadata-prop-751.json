@@ -326,6 +326,27 @@
       },
       {
         "type": "category",
+        "label": "Multi-Tenancy",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview of Capsule",
+            "href": "/docs/Multi-Tenancy/Overview",
+            "docId": "Multi-Tenancy/Overview"
+          },
+          {
+            "type": "link",
+            "label": "Configure & Install Capsule",
+            "href": "/docs/Multi-Tenancy/Configure & Install Capsule",
+            "docId": "Multi-Tenancy/Configure & Install Capsule"
+          }
+        ],
+        "href": "/docs/category/multi-tenancy"
+      },
+      {
+        "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
@@ -591,6 +612,18 @@
       "id": "Monitoring/Overview",
       "title": "Overview",
       "description": "Monitoring with Prometheus and Grafana",
+      "sidebar": "tutorialSidebar"
+    },
+    "Multi-Tenancy/Configure & Install Capsule": {
+      "id": "Multi-Tenancy/Configure & Install Capsule",
+      "title": "Configure & Install Capsule",
+      "description": "Due to the limitation of my gcp university account it's not possible to enable rbac security groups",
+      "sidebar": "tutorialSidebar"
+    },
+    "Multi-Tenancy/Overview": {
+      "id": "Multi-Tenancy/Overview",
+      "title": "Overview of Capsule",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "script/script": {

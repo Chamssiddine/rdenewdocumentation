@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1687206665825.json",
-        "lunrIndex": "lunr-index-1687206665825.json"
+        "searchDoc": "search-doc-1687391814473.json",
+        "lunrIndex": "lunr-index-1687391814473.json"
       }
     }
   },
@@ -164,6 +164,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Multi-Tenancy/Configure & Install Capsule",
+              "path": "/docs/Multi-Tenancy/Configure & Install Capsule",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Multi-Tenancy/Overview",
+              "path": "/docs/Multi-Tenancy/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "script/script",
               "path": "/docs/script/",
               "sidebar": "tutorialSidebar"
@@ -306,6 +316,11 @@
             {
               "id": "/category/disaster-recovery",
               "path": "/docs/category/disaster-recovery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/multi-tenancy",
+              "path": "/docs/category/multi-tenancy",
               "sidebar": "tutorialSidebar"
             },
             {
