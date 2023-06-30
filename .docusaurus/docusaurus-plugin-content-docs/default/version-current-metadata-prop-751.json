@@ -557,7 +557,7 @@
     "Infrastructure as a Code/Terraform Modules/Add Developer roles and Access": {
       "id": "Infrastructure as a Code/Terraform Modules/Add Developer roles and Access",
       "title": "Add Developer roles and Access",
-      "description": "To add a new developer and role binding, as well as a new role, navigate to infrastructure/modules/IamRbac follow these steps:",
+      "description": "You need to Activate Google Rbac Security Groups else this is not going to work",
       "sidebar": "tutorialSidebar"
     },
     "Infrastructure as a Code/Terraform Modules/Google kubernetes Engine Cluster": {
