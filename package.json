@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "test": "npm run sonarqube && jest",
-    "sonarqube": "sonar-scanner -Dsonar.projectSettings=sonar-project.properties",
+    "sonarqube": "sonar-scanner -Dsonar.projectSettings=sonar-project.properties -Dsonar.projectKey=doc -Dsonar.sources=./src -Dsonar.host.url=http://localhost:9000/  -Dsonar.login=admin -Dsonar.password=sonar",
     "sonar": "node sonarqube-scanner.js"
   },
   "dependencies": {
