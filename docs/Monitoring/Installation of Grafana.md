@@ -13,7 +13,7 @@ sidebar_position: 4
 2. Add the Grafana Helm repository:
 
 ```bash
- $ helm repo add grafana
+ $ helm repo add grafana https://grafana.github.io/helm-charts
 ```
 
 3. Install Grafana using the Helm Chart. We provided a customized `grafana_values.yaml` file for our specific needs, but you can modify it according to your preferences.
