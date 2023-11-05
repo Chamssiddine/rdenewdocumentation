@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '7f7'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'c08'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '482'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '3c4'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '6ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '0e6'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '38f'),
     exact: true
@@ -99,7 +64,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '567'),
+    component: ComponentCreator('/docs', 'd31'),
     routes: [
       {
         path: '/docs/Backup/Backup Developer workstation with Veeam',
@@ -140,6 +105,12 @@ export default [
       {
         path: '/docs/category/continous-integration',
         component: ComponentCreator('/docs/category/continous-integration', '620'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/devops-modules',
+        component: ComponentCreator('/docs/category/devops-modules', '97c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -282,6 +253,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/DevOps Modules/',
+        component: ComponentCreator('/docs/DevOps Modules/', '871'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/Disaster Recovery/CommingSoon',
         component: ComponentCreator('/docs/Disaster Recovery/CommingSoon', '17d'),
         exact: true,
@@ -324,8 +301,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Introduction',
-        component: ComponentCreator('/docs/Introduction', 'de5'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -368,12 +345,6 @@ export default [
       {
         path: '/docs/Multi-Tenancy/Overview',
         component: ComponentCreator('/docs/Multi-Tenancy/Overview', '436'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/script/',
-        component: ComponentCreator('/docs/script/', '31c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

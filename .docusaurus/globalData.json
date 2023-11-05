@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1699204073663.json",
-        "lunrIndex": "lunr-index-1699204073663.json"
+        "searchDoc": "search-doc-1699211044898.json",
+        "lunrIndex": "lunr-index-1699211044898.json"
       }
     }
   },
@@ -16,7 +16,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Introduction",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "Backup/Backup Developer workstation with Veeam",
@@ -99,6 +99,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "DevOps Modules/DevOps Modules",
+              "path": "/docs/DevOps Modules/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Disaster Recovery/CommingSoon",
               "path": "/docs/Disaster Recovery/CommingSoon",
               "sidebar": "tutorialSidebar"
@@ -134,8 +139,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Introduction",
-              "path": "/docs/Introduction",
+              "id": "intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -171,11 +176,6 @@
             {
               "id": "Multi-Tenancy/Overview",
               "path": "/docs/Multi-Tenancy/Overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "script/script",
-              "path": "/docs/script/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -332,14 +332,19 @@
               "id": "/category/tutorial---extras",
               "path": "/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/devops-modules",
+              "path": "/docs/category/devops-modules",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Introduction",
-                "label": "Introduction"
+                "path": "/docs/intro",
+                "label": "intro"
               }
             }
           }

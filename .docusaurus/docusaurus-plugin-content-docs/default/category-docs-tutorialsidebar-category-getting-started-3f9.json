@@ -5,8 +5,8 @@
   "permalink": "/docs/category/getting-started",
   "navigation": {
     "previous": {
-      "title": "DevOps Course",
-      "permalink": "/docs/script/"
+      "title": "Introduction",
+      "permalink": "/docs/intro"
     },
     "next": {
       "title": "How to start with the project",

@@ -439,12 +439,39 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "title": "DevOps Course",
+                "permalink": "/docs/DevOps Modules/"
               },
               "next": {
                 "title": "Access AWX",
                 "permalink": "/docs/Developer Access/Access AWX"
+              }
+            },
+            {
+              "unversionedId": "DevOps Modules/DevOps Modules",
+              "id": "DevOps Modules/DevOps Modules",
+              "title": "DevOps Course",
+              "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
+              "source": "@site/docs/DevOps Modules/DevOps Modules.md",
+              "sourceDirName": "DevOps Modules",
+              "slug": "/DevOps Modules/",
+              "permalink": "/docs/DevOps Modules/",
+              "draft": false,
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/DevOps Modules/DevOps Modules.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DevOps Modules",
+                "permalink": "/docs/category/devops-modules"
+              },
+              "next": {
+                "title": "Access GCP instance",
+                "permalink": "/docs/Developer Access/Access GCP instance"
               }
             },
             {
@@ -637,16 +664,16 @@
               }
             },
             {
-              "unversionedId": "Introduction",
-              "id": "Introduction",
+              "unversionedId": "intro",
+              "id": "intro",
               "title": "Introduction",
               "description": "Project Purpose",
-              "source": "@site/docs/Introduction.md",
+              "source": "@site/docs/intro.md",
               "sourceDirName": ".",
-              "slug": "/Introduction",
-              "permalink": "/docs/Introduction",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
               "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Introduction.md",
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
@@ -655,8 +682,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "DevOps Course",
-                "permalink": "/docs/script/"
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
               }
             },
             {
@@ -846,33 +873,6 @@
               "next": {
                 "title": "Configure & Install Capsule",
                 "permalink": "/docs/Multi-Tenancy/Configure & Install Capsule"
-              }
-            },
-            {
-              "unversionedId": "script/script",
-              "id": "script/script",
-              "title": "DevOps Course",
-              "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
-              "source": "@site/docs/script/script.md",
-              "sourceDirName": "script",
-              "slug": "/script/",
-              "permalink": "/docs/script/",
-              "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/script/script.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 0,
-              "frontMatter": {
-                "sidebar_position": 0
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/Introduction"
-              },
-              "next": {
-                "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
               }
             },
             {
@@ -1330,8 +1330,8 @@
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
-                "title": "Access GCP instance",
-                "permalink": "/docs/Developer Access/Access GCP instance"
+                "title": "DevOps Modules",
+                "permalink": "/docs/category/devops-modules"
               }
             }
           ],
@@ -1340,12 +1340,7 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "Introduction"
-              },
-              {
-                "type": "doc",
-                "label": "DevOps Course",
-                "id": "script/script"
+                "id": "intro"
               },
               {
                 "type": "category",
@@ -1720,6 +1715,24 @@
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
                   "permalink": "/docs/category/tutorial---extras"
+                }
+              },
+              {
+                "type": "category",
+                "label": "DevOps Modules",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "DevOps Modules/DevOps Modules"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Enjoy!",
+                  "slug": "/category/devops-modules",
+                  "permalink": "/docs/category/devops-modules"
                 }
               },
               {

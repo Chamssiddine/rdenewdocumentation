@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "intro",
-  "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
+  "title": "Introduction",
+  "description": "Project Purpose",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "DevOps Course",
-    "permalink": "/docs/script/"
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
   }
 }

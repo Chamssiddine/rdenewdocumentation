@@ -12,14 +12,8 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/Introduction",
-        "docId": "Introduction"
-      },
-      {
-        "type": "link",
-        "label": "DevOps Course",
-        "href": "/docs/script/",
-        "docId": "script/script"
+        "href": "/docs/intro",
+        "docId": "intro"
       },
       {
         "type": "category",
@@ -419,6 +413,21 @@
       },
       {
         "type": "category",
+        "label": "DevOps Modules",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "DevOps Course",
+            "href": "/docs/DevOps Modules/",
+            "docId": "DevOps Modules/DevOps Modules"
+          }
+        ],
+        "href": "/docs/category/devops-modules"
+      },
+      {
+        "type": "category",
         "label": "Developer Access",
         "collapsible": true,
         "collapsed": true,
@@ -536,6 +545,12 @@
       "description": "Step 1 install ssh plugin in VSCODE",
       "sidebar": "tutorialSidebar"
     },
+    "DevOps Modules/DevOps Modules": {
+      "id": "DevOps Modules/DevOps Modules",
+      "title": "DevOps Course",
+      "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
+      "sidebar": "tutorialSidebar"
+    },
     "Disaster Recovery/CommingSoon": {
       "id": "Disaster Recovery/CommingSoon",
       "title": "CommingSoon",
@@ -578,8 +593,8 @@
       "description": "Module Purpose",
       "sidebar": "tutorialSidebar"
     },
-    "Introduction": {
-      "id": "Introduction",
+    "intro": {
+      "id": "intro",
       "title": "Introduction",
       "description": "Project Purpose",
       "sidebar": "tutorialSidebar"
@@ -624,12 +639,6 @@
       "id": "Multi-Tenancy/Overview",
       "title": "Overview of Capsule",
       "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "script/script": {
-      "id": "script/script",
-      "title": "DevOps Course",
-      "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
       "sidebar": "tutorialSidebar"
     },
     "Secrets/CentralizedSecret": {
