@@ -201,7 +201,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Configuration Management",
-                "permalink": "/docs/Configuration Management/Introduction"
+                "permalink": "/docs/Configuration Management/introduction"
               },
               "next": {
                 "title": "Running Ansible Playbook with Dynamic Inventory",
@@ -209,16 +209,16 @@
               }
             },
             {
-              "unversionedId": "Configuration Management/Introduction",
-              "id": "Configuration Management/Introduction",
+              "unversionedId": "Configuration Management/introduction",
+              "id": "Configuration Management/introduction",
               "title": "Configuration Management",
               "description": "Introduction",
-              "source": "@site/docs/Configuration Management/Introduction.md",
+              "source": "@site/docs/Configuration Management/introduction.md",
               "sourceDirName": "Configuration Management",
-              "slug": "/Configuration Management/Introduction",
-              "permalink": "/docs/Configuration Management/Introduction",
+              "slug": "/Configuration Management/introduction",
+              "permalink": "/docs/Configuration Management/introduction",
               "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/Introduction.md",
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Configuration Management/introduction.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -282,7 +282,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Overview",
-                "permalink": "/docs/Continous Integration/Overview"
+                "permalink": "/docs/Continous Integration/overview"
               },
               "next": {
                 "title": "Jenkins Pipelines",
@@ -371,16 +371,16 @@
               }
             },
             {
-              "unversionedId": "Continous Integration/Overview",
-              "id": "Continous Integration/Overview",
+              "unversionedId": "Continous Integration/overview",
+              "id": "Continous Integration/overview",
               "title": "Overview",
               "description": "This comprehensive guide will provide you with all the information you need to effectively set up and manage your remote development environment.",
-              "source": "@site/docs/Continous Integration/Overview.md",
+              "source": "@site/docs/Continous Integration/overview.md",
               "sourceDirName": "Continous Integration",
-              "slug": "/Continous Integration/Overview",
-              "permalink": "/docs/Continous Integration/Overview",
+              "slug": "/Continous Integration/overview",
+              "permalink": "/docs/Continous Integration/overview",
               "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/Overview.md",
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Continous Integration/overview.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -418,10 +418,6 @@
               "previous": {
                 "title": "Access GCP instance",
                 "permalink": "/docs/Developer Access/Access GCP instance"
-              },
-              "next": {
-                "title": "This is my video script",
-                "permalink": "/docs/script/"
               }
             },
             {
@@ -641,16 +637,16 @@
               }
             },
             {
-              "unversionedId": "intro",
-              "id": "intro",
+              "unversionedId": "Introduction",
+              "id": "Introduction",
               "title": "Introduction",
               "description": "Project Purpose",
-              "source": "@site/docs/intro.md",
+              "source": "@site/docs/Introduction.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
+              "slug": "/Introduction",
+              "permalink": "/docs/Introduction",
               "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/intro.md",
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Introduction.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
@@ -659,8 +655,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
+                "title": "DevOps Course",
+                "permalink": "/docs/script/"
               }
             },
             {
@@ -709,8 +705,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Overview",
-                "permalink": "/docs/Monitoring/Overview"
+                "title": "overview",
+                "permalink": "/docs/Monitoring/overview"
               },
               "next": {
                 "title": "Installation of Prometheus",
@@ -772,16 +768,16 @@
               }
             },
             {
-              "unversionedId": "Monitoring/Overview",
-              "id": "Monitoring/Overview",
-              "title": "Overview",
+              "unversionedId": "Monitoring/overview",
+              "id": "Monitoring/overview",
+              "title": "overview",
               "description": "Monitoring with Prometheus and Grafana",
-              "source": "@site/docs/Monitoring/Overview.md",
+              "source": "@site/docs/Monitoring/overview.md",
               "sourceDirName": "Monitoring",
-              "slug": "/Monitoring/Overview",
-              "permalink": "/docs/Monitoring/Overview",
+              "slug": "/Monitoring/overview",
+              "permalink": "/docs/Monitoring/overview",
               "draft": false,
-              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/Overview.md",
+              "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/Monitoring/overview.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -855,8 +851,8 @@
             {
               "unversionedId": "script/script",
               "id": "script/script",
-              "title": "This is my video script",
-              "description": "end result",
+              "title": "DevOps Course",
+              "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
               "source": "@site/docs/script/script.md",
               "sourceDirName": "script",
               "slug": "/script/",
@@ -865,11 +861,18 @@
               "editUrl": "https://github.com/Chamssiddine/remote-development-environment/docs/script/script.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Access AWX",
-                "permalink": "/docs/Developer Access/Access AWX"
+                "title": "Introduction",
+                "permalink": "/docs/Introduction"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
               }
             },
             {
@@ -1337,7 +1340,12 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "Introduction"
+              },
+              {
+                "type": "doc",
+                "label": "DevOps Course",
+                "id": "script/script"
               },
               {
                 "type": "category",
@@ -1365,7 +1373,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Continous Integration/Overview"
+                    "id": "Continous Integration/overview"
                   },
                   {
                     "type": "doc",
@@ -1400,7 +1408,7 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Enjoy!",
+                  "description": "automation !",
                   "slug": "/category/continous-integration",
                   "permalink": "/docs/category/continous-integration"
                 }
@@ -1461,7 +1469,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Monitoring/Overview"
+                    "id": "Monitoring/overview"
                   },
                   {
                     "type": "doc",
@@ -1495,7 +1503,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Configuration Management/Introduction"
+                    "id": "Configuration Management/introduction"
                   },
                   {
                     "type": "doc",
@@ -1729,11 +1737,6 @@
                     "id": "Developer Access/Access AWX"
                   }
                 ]
-              },
-              {
-                "type": "doc",
-                "label": "This is my video script",
-                "id": "script/script"
               }
             ]
           }

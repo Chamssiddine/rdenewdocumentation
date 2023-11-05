@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1690910760891.json",
-        "lunrIndex": "lunr-index-1690910760891.json"
+        "searchDoc": "search-doc-1699204073663.json",
+        "lunrIndex": "lunr-index-1699204073663.json"
       }
     }
   },
@@ -16,7 +16,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Introduction",
           "docs": [
             {
               "id": "Backup/Backup Developer workstation with Veeam",
@@ -54,8 +54,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Configuration Management/Introduction",
-              "path": "/docs/Configuration Management/Introduction",
+              "id": "Configuration Management/introduction",
+              "path": "/docs/Configuration Management/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -84,8 +84,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Continous Integration/Overview",
-              "path": "/docs/Continous Integration/Overview",
+              "id": "Continous Integration/overview",
+              "path": "/docs/Continous Integration/overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -134,8 +134,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "Introduction",
+              "path": "/docs/Introduction",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -159,8 +159,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Monitoring/Overview",
-              "path": "/docs/Monitoring/Overview",
+              "id": "Monitoring/overview",
+              "path": "/docs/Monitoring/overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -338,8 +338,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/Introduction",
+                "label": "Introduction"
               }
             }
           }

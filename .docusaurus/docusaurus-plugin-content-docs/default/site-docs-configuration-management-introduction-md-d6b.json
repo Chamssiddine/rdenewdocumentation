@@ -1,8 +1,8 @@
 {
   "unversionedId": "Configuration Management/introduction",
   "id": "Configuration Management/introduction",
-  "title": "introduction",
-  "description": "",
+  "title": "Configuration Management",
+  "description": "Introduction",
   "source": "@site/docs/Configuration Management/introduction.md",
   "sourceDirName": "Configuration Management",
   "slug": "/Configuration Management/introduction",

@@ -12,8 +12,14 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro",
-        "docId": "intro"
+        "href": "/docs/Introduction",
+        "docId": "Introduction"
+      },
+      {
+        "type": "link",
+        "label": "DevOps Course",
+        "href": "/docs/script/",
+        "docId": "script/script"
       },
       {
         "type": "category",
@@ -39,8 +45,8 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/Continous Integration/Overview",
-            "docId": "Continous Integration/Overview"
+            "href": "/docs/Continous Integration/overview",
+            "docId": "Continous Integration/overview"
           },
           {
             "type": "link",
@@ -134,9 +140,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Overview",
-            "href": "/docs/Monitoring/Overview",
-            "docId": "Monitoring/Overview"
+            "label": "overview",
+            "href": "/docs/Monitoring/overview",
+            "docId": "Monitoring/overview"
           },
           {
             "type": "link",
@@ -174,8 +180,8 @@
           {
             "type": "link",
             "label": "Configuration Management",
-            "href": "/docs/Configuration Management/Introduction",
-            "docId": "Configuration Management/Introduction"
+            "href": "/docs/Configuration Management/introduction",
+            "docId": "Configuration Management/introduction"
           },
           {
             "type": "link",
@@ -430,12 +436,6 @@
             "docId": "Developer Access/Access AWX"
           }
         ]
-      },
-      {
-        "type": "link",
-        "label": "This is my video script",
-        "href": "/docs/script/",
-        "docId": "script/script"
       }
     ]
   },
@@ -482,8 +482,8 @@
       "description": "How to install AWX using kubernetes operator",
       "sidebar": "tutorialSidebar"
     },
-    "Configuration Management/Introduction": {
-      "id": "Configuration Management/Introduction",
+    "Configuration Management/introduction": {
+      "id": "Configuration Management/introduction",
       "title": "Configuration Management",
       "description": "Introduction",
       "sidebar": "tutorialSidebar"
@@ -518,8 +518,8 @@
       "description": "The Serverspec Testing pipeline is responsible for executing Serverspec tests on multiple instances in parallel. It automates the process of installing Serverspec on developers' instances, copying the test files, and running the tests.",
       "sidebar": "tutorialSidebar"
     },
-    "Continous Integration/Overview": {
-      "id": "Continous Integration/Overview",
+    "Continous Integration/overview": {
+      "id": "Continous Integration/overview",
       "title": "Overview",
       "description": "This comprehensive guide will provide you with all the information you need to effectively set up and manage your remote development environment.",
       "sidebar": "tutorialSidebar"
@@ -578,8 +578,8 @@
       "description": "Module Purpose",
       "sidebar": "tutorialSidebar"
     },
-    "intro": {
-      "id": "intro",
+    "Introduction": {
+      "id": "Introduction",
       "title": "Introduction",
       "description": "Project Purpose",
       "sidebar": "tutorialSidebar"
@@ -608,9 +608,9 @@
       "description": "1. Navigate to the Prometheus chart directory:",
       "sidebar": "tutorialSidebar"
     },
-    "Monitoring/Overview": {
-      "id": "Monitoring/Overview",
-      "title": "Overview",
+    "Monitoring/overview": {
+      "id": "Monitoring/overview",
+      "title": "overview",
       "description": "Monitoring with Prometheus and Grafana",
       "sidebar": "tutorialSidebar"
     },
@@ -628,8 +628,8 @@
     },
     "script/script": {
       "id": "script/script",
-      "title": "This is my video script",
-      "description": "end result",
+      "title": "DevOps Course",
+      "description": "The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7",
       "sidebar": "tutorialSidebar"
     },
     "Secrets/CentralizedSecret": {

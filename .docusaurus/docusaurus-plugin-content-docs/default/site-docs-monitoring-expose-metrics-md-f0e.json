@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Overview",
-    "permalink": "/docs/Monitoring/Overview"
+    "title": "overview",
+    "permalink": "/docs/Monitoring/overview"
   },
   "next": {
     "title": "Installation of Prometheus",

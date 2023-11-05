@@ -1,6 +1,6 @@
 {
   "title": "Continous Integration",
-  "description": "Enjoy!",
+  "description": "automation !",
   "slug": "/category/continous-integration",
   "permalink": "/docs/category/continous-integration",
   "navigation": {
@@ -10,7 +10,7 @@
     },
     "next": {
       "title": "Overview",
-      "permalink": "/docs/Continous Integration/Overview"
+      "permalink": "/docs/Continous Integration/overview"
     }
   }
 }

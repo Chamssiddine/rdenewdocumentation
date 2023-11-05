@@ -1,25 +1,4 @@
 node_modules
 build
-
-
-sonar-scanner \
-  -Dsonar.projectKey=doc \
-  -Dsonar.sources=./src \
-  -Dsonar.host.url=http://localhost:9000 \
-  -Dsonar.login=sqp_cecdd493a5be41f0d658bafe1e060752f48b2464
-
-sqp_d21796c19cf68819813420aa39207bdbc647ea68
-
-  sonar-scanner \                                                            
-  -Dsonar.projectKey=doc \
-  -Dsonar.sources=./src \
-  -Dsonar.host.url=http://localhost:9000 \
-  -Dsonar.login=admin \
-  -Dsonar.password=sonar
-
-  sonar-scanner \
-   -Dsonar.projectKey=doc \
-   -Dsonar.sources=./src \
-   -Dsonar.host.url=http://localhost:9000 \
-   -Dsonar.login=admin \
-   -Dsonar.password=sonar
+.docusaurus
+.sca*

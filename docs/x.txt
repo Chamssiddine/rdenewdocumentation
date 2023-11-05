@@ -1,8 +1,6 @@
 ---
 sidebar_position: 0
 ---
-
-# DevOps Course
 The workflow of this course is that we will learn DevOps culture and it's tools while creating a project and we will start step by step in case of a basic knowledge is needed in IT we will explain it so everyone are in the same level7
 
 ## Module 1: Introduction to DevOps

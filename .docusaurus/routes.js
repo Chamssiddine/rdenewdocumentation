@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd6d'),
+    component: ComponentCreator('/docs', '567'),
     routes: [
       {
         path: '/docs/Backup/Backup Developer workstation with Veeam',
@@ -228,8 +228,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Configuration Management/Introduction',
-        component: ComponentCreator('/docs/Configuration Management/Introduction', '22b'),
+        path: '/docs/Configuration Management/introduction',
+        component: ComponentCreator('/docs/Configuration Management/introduction', 'b7b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -264,8 +264,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Continous Integration/Overview',
-        component: ComponentCreator('/docs/Continous Integration/Overview', 'd72'),
+        path: '/docs/Continous Integration/overview',
+        component: ComponentCreator('/docs/Continous Integration/overview', '6f3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -324,8 +324,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/docs/Introduction',
+        component: ComponentCreator('/docs/Introduction', 'de5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -354,8 +354,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Monitoring/Overview',
-        component: ComponentCreator('/docs/Monitoring/Overview', '86b'),
+        path: '/docs/Monitoring/overview',
+        component: ComponentCreator('/docs/Monitoring/overview', 'a93'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

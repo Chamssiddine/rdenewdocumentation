@@ -1,10 +1,10 @@
-# Stage 1: Development
-FROM node:lts as development
-WORKDIR /home/node/app
-# Copy package.json and package-lock.json first to leverage Docker caching
-COPY package*.json ./
-# Install dependencies for development
-RUN npm install
+# # Stage 1: Development
+# FROM node:lts as development
+# WORKDIR /home/node/app
+# # Copy package.json and package-lock.json first to leverage Docker caching
+# COPY package*.json ./
+# # Install dependencies for development
+# RUN npm install
 
 # Stage 2: Production
 FROM node:lts as production
