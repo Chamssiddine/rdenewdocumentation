@@ -312,24 +312,13 @@ export default {
       "maxHeadingLevel": 3
     }
   },
-  "plugins": [
-    [
-      "/Users/chamseddine/Documents/github/rdenewdocumentation/node_modules/docusaurus-lunr-search/src/index.js",
-      {
-        "languages": [
-          "en"
-        ],
-        "indexBlog": true,
-        "indexDocs": true
-      }
-    ]
-  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
   ],
   "customFields": {},
+  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

@@ -2121,7 +2121,6 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
-  "docusaurus-lunr-search": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

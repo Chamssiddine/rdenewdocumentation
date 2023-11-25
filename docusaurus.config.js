@@ -135,16 +135,16 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [
-      [
-        require.resolve('docusaurus-lunr-search'),
-        {
-          languages: ['en'], // Specify the languages to index
-          indexBlog: true, // Set to true if you want to index blog posts
-          indexDocs: true, // Set to true if you want to index docs
-        },
-      ],
-    ],
+    // plugins: [
+    //   [
+    //     require.resolve('docusaurus-lunr-search'),
+    //     {
+    //       languages: ['en'], // Specify the languages to index
+    //       indexBlog: true, // Set to true if you want to index blog posts
+    //       indexDocs: true, // Set to true if you want to index docs
+    //     },
+    //   ],
+    // ],
 };
 
 
