@@ -16,9 +16,7 @@ pipeline {
         
         stage('Npm Install') {
             steps {
-                nodejs('nodejs') {
-                    npm 'install'
-                }
+                 sh 'npm install'
             }
         }
         stage('npm run build') {
