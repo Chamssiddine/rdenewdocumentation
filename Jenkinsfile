@@ -2,7 +2,7 @@ pipeline {
     agent any
     tools {
       nodejs 'nodejs'
-      // dockerTool 'docker'
+      dockerTool 'docker'
 
     }
 
@@ -16,6 +16,12 @@ pipeline {
         
         stage('Npm Install') {
             steps {
+                sh '''
+                    rm -rf /var/jenkins_home/workspace/continuousintegration/node_modules
+                    npm cache clean --force
+
+
+                '''
                  sh 'npm install'
             }
         }
