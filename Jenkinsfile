@@ -81,5 +81,6 @@ pipeline {
                     sh "docker push ${fullImageName}"
                 }
             }
+        }
     }
 }
