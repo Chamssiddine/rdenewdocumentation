@@ -11,21 +11,21 @@ pipeline {
                     git branch: 'main', url: 'https://github.com/Chamssiddine/rdenewdocumentation.git'
                 }
             }
-            stage('NPM'){
-                    agent { 
-                        docker { 
-                            image 'node:21.5.0-alpine' 
-                            args '-v /var/run/docker.sock:/var/run/docker.sock --network cicd_devops'
-                        } 
-                    }
-                    steps{                    
-                            sh '''
-                                npm install
-                                npm run build
-                            '''
-                        }
+            // stage('NPM'){
+            //         agent { 
+            //             docker { 
+            //                 image 'node:21.5.0-alpine' 
+            //                 args '-v /var/run/docker.sock:/var/run/docker.sock --network cicd_devops'
+            //             } 
+            //         }
+            //         steps{                    
+            //                 sh '''
+            //                     npm install
+            //                     npm run build
+            //                 '''
+            //             }
                     
-                }
+            //     }
 
             stage('SonarQube Analysis') {
                 environment {
