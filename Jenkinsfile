@@ -5,6 +5,12 @@ pipeline {
     }
 
     stages {
+
+            stage('Clone Repo'){
+                steps{
+                    git branch: 'main', url: 'https://github.com/Chamssiddine/rdenewdocumentation.git'
+                }
+            }
             stage('NPM'){
                     agent { 
                         docker { 
